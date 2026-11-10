@@ -1,0 +1,4441 @@
+WEBVTT
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/21-0
+00:00:03.628 --> 00:00:04.308
+<v Aleksander Smywiński-Pohl>Zarywać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/44-0
+00:00:05.908 --> 00:00:10.691
+<v Aleksander Smywiński-Pohl>Albo byśmy nie udostępniał ekranu,
+to też proszę zwrócić na to uwagę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/44-1
+00:00:10.691 --> 00:00:14.108
+<v Aleksander Smywiński-Pohl>Po prostu zaczynam dziać przełączę
+wyłączę ekran.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/48-0
+00:00:15.928 --> 00:00:17.168
+<v Aleksander Smywiński-Pohl>Nie zapominam że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/56-0
+00:00:18.458 --> 00:00:22.178
+<v Aleksander Smywiński-Pohl>Ee,
+że że państwo nic tam ciekawego nie widzą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/73-0
+00:00:24.778 --> 00:00:29.016
+<v Aleksander Smywiński-Pohl>I też na to na czym mi zależy na tym
+wykładzie to żeby państwo brali tutaj</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/73-1
+00:00:29.016 --> 00:00:30.938
+<v Aleksander Smywiński-Pohl>aktywny udział, czyli jeżeli ktoś.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/77-0
+00:00:31.698 --> 00:00:32.578
+<v Aleksander Smywiński-Pohl>Jeżeli ktoś.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/104-0
+00:00:35.578 --> 00:00:41.844
+<v Aleksander Smywiński-Pohl>Set coś chcę o coś dopytać,
+jakiś spójności przepuszcza wszystko co</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/104-1
+00:00:41.844 --> 00:00:47.281
+<v Aleksander Smywiński-Pohl>ja gadam przez czata,
+ten model lokalny jakiś tam nie wiem</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/104-2
+00:00:47.281 --> 00:00:50.138
+<v Aleksander Smywiński-Pohl>machownie z z GPU 100 milionów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/108-0
+00:00:51.708 --> 00:00:52.748
+<v Aleksander Smywiński-Pohl>Gigabajtów viramu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/133-0
+00:00:54.798 --> 00:00:57.436
+<v Aleksander Smywiński-Pohl>To się też też chętnie chętnie chętnie
+usłyszę,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/133-1
+00:00:57.436 --> 00:01:00.239
+<v Aleksander Smywiński-Pohl>jeżeli jakieś uwagi krytyczne też będą,
+to proszę,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/133-2
+00:01:00.239 --> 00:01:02.438
+<v Aleksander Smywiński-Pohl>proszę się nimi dzielić jak najbardziej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/139-0
+00:01:05.138 --> 00:01:06.378
+<v Aleksander Smywiński-Pohl>Tak no to proszę państwa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/147-0
+00:01:07.578 --> 00:01:10.298
+<v Aleksander Smywiński-Pohl>Udostępniłem państwo widzą tutaj
+prezentację.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/150-0
+00:01:13.088 --> 00:01:13.478
+<v Jakub Grześ>Widać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/160-0
+00:01:14.228 --> 00:01:17.028
+<v Aleksander Smywiński-Pohl>Świetnie są takie czarne paski po bokach,
+tak?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/162-0
+00:01:19.208 --> 00:01:19.688
+<v Jakub Grześ>Tak są.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/170-0
+00:01:22.038 --> 00:01:24.078
+<v Aleksander Smywiński-Pohl>A jak zrobię tak to to jak to wygląda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/173-0
+00:01:25.828 --> 00:01:26.468
+<v Jakub Grześ>Teraz nie ma.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/183-0
+00:01:28.178 --> 00:01:30.858
+<v Aleksander Smywiński-Pohl>Teraz nie ma jest jakby na cały ekran
+państwa czy jak to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/189-0
+00:01:33.138 --> 00:01:34.938
+<v Aleksander Smywiński-Pohl>Bo zależy kto jaką ma powiedzmy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/193-0
+00:01:37.398 --> 00:01:39.838
+<v Aleksander Smywiński-Pohl>Proporcje dobra jest dobrze.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/196-0
+00:01:40.898 --> 00:01:41.458
+<v Aleksander Smywiński-Pohl>Nurko.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/203-0
+00:01:42.958 --> 00:01:44.558
+<v Aleksander Smywiński-Pohl>Jakoś taką wybrałem proporcje tutaj.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/206-0
+00:01:46.268 --> 00:01:46.628
+<v Aleksander Smywiński-Pohl>Powiedzmy, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/222-0
+00:01:48.738 --> 00:01:50.891
+<v Aleksander Smywiński-Pohl>Taką,
+która powinna raczej się dobrze</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/222-1
+00:01:50.891 --> 00:01:54.178
+<v Aleksander Smywiński-Pohl>wyświetlać na na na na również na
+węższych kranach, więc.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/252-0
+00:01:55.058 --> 00:01:58.763
+<v Aleksander Smywiński-Pohl>I proszę państwa,
+więc zaczynamy ogólnie rzecz biorąc ten</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/252-1
+00:01:58.763 --> 00:02:03.428
+<v Aleksander Smywiński-Pohl>nasz przedmiot. No to jest coś, co temat,
+którym tutaj, który podejmuje,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/252-2
+00:02:03.428 --> 00:02:04.578
+<v Aleksander Smywiński-Pohl>jest niewątpliwie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/257-0
+00:02:06.148 --> 00:02:07.588
+<v Aleksander Smywiński-Pohl>No no nie może być bardziej na czasie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/271-0
+00:02:11.338 --> 00:02:17.138
+<v Aleksander Smywiński-Pohl>Jest jakikolwiek inny, chyba nie wiem,
+może ja żyję w bańce ja ale generalnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/280-0
+00:02:18.178 --> 00:02:19.778
+<v Aleksander Smywiński-Pohl>Gdzie się człowiek nie obejrzy to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/313-0
+00:02:21.298 --> 00:02:24.706
+<v Aleksander Smywiński-Pohl>Dowiaduje się,
+że agenty co jest nowy uciekły,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/313-1
+00:02:24.706 --> 00:02:28.332
+<v Aleksander Smywiński-Pohl>zaatakowały.
+Albo że po prostu rozwiązały zadania</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/313-2
+00:02:28.332 --> 00:02:33.698
+<v Aleksander Smywiński-Pohl>matematyczne problemy matematyczne,
+prawda? Teraz open, a ja i nas tutaj.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/320-0
+00:02:35.578 --> 00:02:38.378
+<v Aleksander Smywiński-Pohl>Rzucił się do takich związanych problemów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/326-0
+00:02:39.418 --> 00:02:41.058
+<v Aleksander Smywiński-Pohl>I człowieku, weź ty z tym coś zrób.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/328-0
+00:02:43.338 --> 00:02:43.738
+<v Aleksander Smywiński-Pohl>Cóż.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/355-0
+00:02:45.498 --> 00:02:49.875
+<v Aleksander Smywiński-Pohl>Żyjemy w takich czasach dość,
+bo po prostu jest to można powiedzieć w</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/355-1
+00:02:49.875 --> 00:02:54.064
+<v Aleksander Smywiński-Pohl>jakimś tam stopniu przełomu.
+Pewnego przełomu nie do końca jeszcze</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/355-2
+00:02:54.064 --> 00:02:55.378
+<v Aleksander Smywiński-Pohl>wiemy, co z tego nie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/360-0
+00:02:56.178 --> 00:02:57.618
+<v Aleksander Smywiński-Pohl>Yy natomiast na pewno.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/379-0
+00:02:58.978 --> 00:03:04.266
+<v Aleksander Smywiński-Pohl>Pewnie pozmieniają w naszym życiu, prawda?
+Na pewno informatyków i czy programistów</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/379-1
+00:03:04.266 --> 00:03:06.218
+<v Aleksander Smywiński-Pohl>programistów się wiele zmienia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/401-0
+00:03:06.738 --> 00:03:10.726
+<v Aleksander Smywiński-Pohl>I pytanie pojawiają się takie pytanie,
+prawda? Czego powinniśmy się uczyć?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/401-1
+00:03:10.726 --> 00:03:14.182
+<v Aleksander Smywiński-Pohl>Czy w ogóle z czegoś uczy,
+uczyć się języków programowania i tak</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/401-2
+00:03:14.182 --> 00:03:15.778
+<v Aleksander Smywiński-Pohl>dalej i tak dalej i tak dalej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/423-0
+00:03:16.778 --> 00:03:21.277
+<v Aleksander Smywiński-Pohl>I moja nie wiem,
+ale jeżeli czego się warto uczyć,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/423-1
+00:03:21.277 --> 00:03:28.335
+<v Aleksander Smywiński-Pohl>to na pewno warto uczyć się liwickich
+obliczeniowy czy po prostu no zgłębia jak</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/423-2
+00:03:28.335 --> 00:03:29.218
+<v Aleksander Smywiński-Pohl>ta działa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/431-0
+00:03:29.658 --> 00:03:32.898
+<v Aleksander Smywiński-Pohl>Wiedzieć jak to działa,
+bo tutaj bez wątpienia póki co.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/446-0
+00:03:35.618 --> 00:03:40.879
+<v Aleksander Smywiński-Pohl>Yy, dużo do zrobienia jest praca,
+no tylko trzeba, trzeba coś coś wiedzieć,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/446-1
+00:03:40.879 --> 00:03:42.818
+<v Aleksander Smywiński-Pohl>prawda? Trzeba coś wiedzieć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/457-0
+00:03:43.338 --> 00:03:47.458
+<v Aleksander Smywiński-Pohl>Jest my zaczynamy od pierwszego tematu
+jakim jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/461-0
+00:03:48.698 --> 00:03:50.138
+<v Aleksander Smywiński-Pohl>Izolacja przede wszystkim tekstu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/470-0
+00:03:51.668 --> 00:03:53.628
+<v Aleksander Smywiński-Pohl>Która jest niezbędnym elementem do tego,
+żebyśmy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/485-0
+00:03:54.818 --> 00:03:59.360
+<v Aleksander Smywiński-Pohl>Za pomocą sieci neuronowych niezbędnym no
+jakaś forma nie mówił,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/485-1
+00:03:59.360 --> 00:04:00.898
+<v Aleksander Smywiński-Pohl>że ta konkretna jedna.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/496-0
+00:04:03.428 --> 00:04:07.028
+<v Aleksander Smywiński-Pohl>Jest po prostu potrzebna,
+żebyśmy mogli ten tekst za pomocą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/524-0
+00:04:09.058 --> 00:04:13.417
+<v Aleksander Smywiński-Pohl>Tych sieci nowych przetwarzać oczywiście
+tutaj się koncentrujemy limitka</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/524-1
+00:04:13.417 --> 00:04:17.298
+<v Aleksander Smywiński-Pohl>wyliczeniowa, czyli słowy,
+koncentrujemy się przede wszystkim na</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/524-2
+00:04:17.298 --> 00:04:20.822
+<v Aleksander Smywiński-Pohl>tekście. Nie wiem,
+czy pojawią się jakieś wątki związane z</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/524-3
+00:04:20.822 --> 00:04:21.658
+<v Aleksander Smywiński-Pohl>modalnościami.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/533-0
+00:04:22.858 --> 00:04:27.218
+<v Aleksander Smywiński-Pohl>Ale odnotowuje,
+że jeżeli mamy na przykład.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/541-0
+00:04:28.658 --> 00:04:32.538
+<v Aleksander Smywiński-Pohl>Obraz, czy mamy dźwięk, czy mamy układ?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/574-0
+00:04:34.098 --> 00:04:38.715
+<v Aleksander Smywiński-Pohl>To wszystkie te elementy możemy,
+powiedzmy do pewnej jednej wspólnej</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/574-1
+00:04:38.715 --> 00:04:41.660
+<v Aleksander Smywiński-Pohl>przestrzeni,
+gdzie jednym z tych elementów,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/574-2
+00:04:41.660 --> 00:04:45.943
+<v Aleksander Smywiński-Pohl>których jakoś kontrybuuje do tej
+przestrzeni są właśnie tokeny,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/574-3
+00:04:45.943 --> 00:04:48.018
+<v Aleksander Smywiński-Pohl>czyli te elementy jedno, które.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/583-0
+00:04:50.378 --> 00:04:55.618
+<v Aleksander Smywiński-Pohl>Że tekst jest podzielony na na takie
+jednostki, czyli gdzieś.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/592-0
+00:04:57.798 --> 00:05:02.318
+<v Aleksander Smywiński-Pohl>Się to, że tak powiem pojawia.
+No proszę państwa jest taki przykład.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/598-0
+00:05:04.398 --> 00:05:06.718
+<v Aleksander Smywiński-Pohl>Ktoś może mi go wyjaśni o co?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/612-0
+00:05:07.858 --> 00:05:13.724
+<v Aleksander Smywiński-Pohl>Jeżeli ktoś chce po prostu,
+to śmiało można sić ręki można zacząć</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/612-1
+00:05:13.724 --> 00:05:14.258
+<v Aleksander Smywiński-Pohl>mówić.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/616-0
+00:05:16.568 --> 00:05:17.368
+<v Aleksander Smywiński-Pohl>O co tu chodzi?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/619-0
+00:05:19.118 --> 00:05:19.838
+<v Aleksander Smywiński-Pohl>W tym przykładzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/623-0
+00:05:22.278 --> 00:05:23.238
+<v Joachim Grys>Halo, halo, słychać mnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/625-0
+00:05:24.368 --> 00:05:24.848
+<v Aleksander Smywiński-Pohl>Tak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/634-0
+00:05:25.578 --> 00:05:27.818
+<v Joachim Grys>No to chodzi o ten kiedyś było właśnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/664-0
+00:05:29.438 --> 00:05:34.071
+<v Joachim Grys>Testowano tak te te wczesne modele,
+szczególnie te takie trójkę,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/664-1
+00:05:34.071 --> 00:05:38.134
+<v Joachim Grys>że się pytało,
+ile jest liter w słowie i właśnie źle źle</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/661-0
+00:05:37.008 --> 00:05:37.568
+<v Aleksander Smywiński-Pohl>Ile jest?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/664-2
+00:05:38.134 --> 00:05:38.918
+<v Joachim Grys>odpowiadał.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/684-0
+00:05:39.628 --> 00:05:44.109
+<v Joachim Grys>No bo nie widzi de facto to szczególnych
+słów, tylko on tam pod pod spodem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/677-0
+00:05:41.458 --> 00:05:42.498
+<v Aleksander Smywiński-Pohl>Nie widzi kto po.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/684-1
+00:05:44.109 --> 00:05:45.348
+<v Joachim Grys>Właśnie to ten tekst.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/691-0
+00:05:45.748 --> 00:05:48.228
+<v Joachim Grys>Czyli dzieli go tam na coś ala sylaby.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/702-0
+00:05:51.068 --> 00:05:54.548
+<v Aleksander Smywiński-Pohl>Ala sylaby tak dzieli go na coś,
+co nie jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/713-0
+00:05:56.188 --> 00:06:00.148
+<v Aleksander Smywiński-Pohl>Nie jest po prostu pojedyncze,
+no i jakby coś to jest oczywiste.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/744-0
+00:06:01.258 --> 00:06:07.360
+<v Aleksander Smywiński-Pohl>Jeżeli patrzymy na to na ten wyraz,
+no to jesteśmy w stanie policzyć te te r,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/744-1
+00:06:07.360 --> 00:06:13.698
+<v Aleksander Smywiński-Pohl>które tutaj mamy RI 2 r. Występuje prawda,
+a dla modelu to są 3 elementy, które.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/756-0
+00:06:14.578 --> 00:06:19.738
+<v Aleksander Smywiński-Pohl>Jakby których on nie widzi tak nie widzi,
+no nie ma oczu. Oczywiście to są.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/770-0
+00:06:20.858 --> 00:06:25.218
+<v Aleksander Smywiński-Pohl>Po prostu wykonujemy obliczenia,
+pewne wykonujemy macierz owe.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/776-0
+00:06:26.938 --> 00:06:28.618
+<v Aleksander Smywiński-Pohl>A wynikiem tego jest pewnego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/792-0
+00:06:30.418 --> 00:06:32.464
+<v Aleksander Smywiński-Pohl>Coś,
+co możemy odkodować i jest to jakaś</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/792-1
+00:06:32.464 --> 00:06:35.458
+<v Aleksander Smywiński-Pohl>informacja tekstowa z powrotem,
+no i on po prostu model on.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/795-0
+00:06:36.778 --> 00:06:37.658
+<v Aleksander Smywiński-Pohl>A ono.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/809-0
+00:06:39.458 --> 00:06:45.218
+<v Aleksander Smywiński-Pohl>Nie, nie ma na wejściu takiej racji,
+która by w łatwy sposób pozwalała.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/830-0
+00:06:50.038 --> 00:06:53.030
+<v Aleksander Smywiński-Pohl>Dostrzec to,
+że tutaj mamy jakieś właśnie litery.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/830-1
+00:06:53.030 --> 00:06:57.878
+<v Aleksander Smywiński-Pohl>A czy czy wiedzą? No, bo pan wspomniał,
+że to było, kiedy już nie ma w zasadzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/842-0
+00:06:59.538 --> 00:07:02.938
+<v Aleksander Smywiński-Pohl>Ja bym tak nie powiedział,
+nie był taki aż taki bardzo tutaj.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/849-0
+00:07:03.858 --> 00:07:06.218
+<v Aleksander Smywiński-Pohl>Pewny w tym w tym, że tak powiem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/855-0
+00:07:07.258 --> 00:07:09.658
+<v Aleksander Smywiński-Pohl>Tym twierdzeniu, ale zostawmy tą kwestię.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/877-0
+00:07:11.268 --> 00:07:14.328
+<v Aleksander Smywiński-Pohl>Jakoś rozwiązano to jakieś są,
+istnieją rozwiązania tego problemu,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/877-1
+00:07:14.328 --> 00:07:17.388
+<v Aleksander Smywiński-Pohl>czy znają państwo jakieś rozwiązania tego
+problemu jak LM my mogą?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/887-0
+00:07:18.378 --> 00:07:22.178
+<v Aleksander Smywiński-Pohl>Potrzeć do formacji ile tych liter? R.
+Faktycznie w tym słowie jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/892-0
+00:07:39.248 --> 00:07:39.588
+<v Aleksander Smywiński-Pohl>Nie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/902-0
+00:07:40.778 --> 00:07:44.318
+<v Joachim Grys>No pewnie piszą jakiś program,
+żeby mi to policzył.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/911-0
+00:07:46.108 --> 00:07:49.148
+<v Aleksander Smywiński-Pohl>Jedno z rozwiązań to jest oczywiście
+bardzo słusznie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/923-0
+00:07:52.548 --> 00:07:57.748
+<v Aleksander Smywiński-Pohl>Który obserwujemy, czyli to,
+że duży model językowy może.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/928-0
+00:07:59.318 --> 00:08:00.878
+<v Aleksander Smywiński-Pohl>Yy korzystać z narzędzi.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/936-0
+00:08:01.778 --> 00:08:04.418
+<v Aleksander Smywiński-Pohl>I trenuj w takim kierunku, żeby one.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/950-0
+00:08:05.698 --> 00:08:11.020
+<v Aleksander Smywiński-Pohl>Bardzo dobrze sobie radziły na przykład z
+naszymi takimi typowymi unik owymi,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/950-1
+00:08:11.020 --> 00:08:11.498
+<v Aleksander Smywiński-Pohl>prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/952-0
+00:08:13.148 --> 00:08:13.708
+<v Aleksander Smywiński-Pohl>Poleceń.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/974-0
+00:08:14.778 --> 00:08:18.927
+<v Aleksander Smywiński-Pohl>Przykład z narzędziami do kopiowania
+otwierania plików,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/974-1
+00:08:18.927 --> 00:08:23.818
+<v Aleksander Smywiński-Pohl>modyfikowania tych plików z narzędziami
+typu git i tym podobnymi.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/994-0
+00:08:25.308 --> 00:08:29.852
+<v Aleksander Smywiński-Pohl>Ale też trenuje się to model do tego,
+żeby one pisały programy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/994-1
+00:08:29.852 --> 00:08:33.828
+<v Aleksander Smywiński-Pohl>no i naprawdę już taki nie jakiś gt,
+tylko jakiś Queen.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1000-0
+00:08:35.938 --> 00:08:37.498
+<v Aleksander Smywiński-Pohl>Zmiany na jednej czy 2 kartach?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1011-0
+00:08:38.378 --> 00:08:44.458
+<v Aleksander Smywiński-Pohl>Jest w stanie napisać gram,
+który policzy ile jesteś.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1025-0
+00:08:45.948 --> 00:08:50.228
+<v Aleksander Smywiński-Pohl>Człowiek i no ten model to uruchamia ten
+program i mówi o k.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1044-0
+00:08:52.618 --> 00:08:56.585
+<v Aleksander Smywiński-Pohl>Są przy literki r,
+prawda jest pewnego rodzaju rozwiązanie,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1044-1
+00:08:56.585 --> 00:09:00.618
+<v Aleksander Smywiński-Pohl>które jakby się no to to nie jest tak,
+że myśmy czyli model.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1073-0
+00:09:03.918 --> 00:09:08.694
+<v Aleksander Smywiński-Pohl>Liczyć te litery tylko po prostu oczyśćmy
+model użyć na taki sposób,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1073-1
+00:09:08.694 --> 00:09:13.678
+<v Aleksander Smywiński-Pohl>żeby on sobie w zasadzie mógł odczytać z
+wyniku uruchomienia narzędzia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1076-0
+00:09:14.258 --> 00:09:15.018
+<v Aleksander Smywiński-Pohl>Ile tych litery?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1083-0
+00:09:16.378 --> 00:09:20.218
+<v Aleksander Smywiński-Pohl>Jest oczywiście nie to tego nie ma
+wątpliwości.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1096-0
+00:09:21.938 --> 00:09:26.738
+<v Aleksander Smywiński-Pohl>Wtedy nie bezpośrednio tą informację
+jakby pozyskuje, a czy jest inna metoda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1099-0
+00:09:28.658 --> 00:09:29.498
+<v Aleksander Smywiński-Pohl>Dałoby się?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1110-0
+00:09:30.818 --> 00:09:32.578
+<v Aleksander Smywiński-Pohl>Zastosować tutaj, żeby model jednak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1116-0
+00:09:31.828 --> 00:09:35.468
+<v Joachim Grys>Dałoby się to na przykład post treningu
+albo jakoś swainować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1127-0
+00:09:36.028 --> 00:09:37.828
+<v Joachim Grys>Żebym miał rozwiązywać takie zagadki?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1128-0
+00:09:36.338 --> 00:09:38.218
+<v Aleksander Smywiński-Pohl>Oczywiście moglibyśmy też.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1131-0
+00:09:39.218 --> 00:09:40.018
+<v Aleksander Smywiński-Pohl>Tak tylko, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1137-0
+00:09:41.708 --> 00:09:42.828
+<v Aleksander Smywiński-Pohl>Pewnego powiedziałbym takiego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1152-0
+00:09:44.338 --> 00:09:49.538
+<v Aleksander Smywiński-Pohl>To coś do tego, że ten post,
+trening i tak dalej czego ten post</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1152-1
+00:09:49.538 --> 00:09:52.058
+<v Aleksander Smywiński-Pohl>trening? Co miał robić trening?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1172-0
+00:09:56.058 --> 00:09:59.397
+<v Marcin Wojnar>A nie można by po prostu bardziej
+stopniować słowa,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1172-1
+00:09:59.397 --> 00:10:01.838
+<v Marcin Wojnar>żeby tokenem była litera a nie sylaba.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1181-0
+00:10:06.128 --> 00:10:09.648
+<v Aleksander Smywiński-Pohl>Sama to jest,
+który jest w pewnym stopniu narzuty.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1203-0
+00:10:09.878 --> 00:10:14.211
+<v Aleksander Smywiński-Pohl>Te yy zanim młode coś zacznie myśleć,
+że tak się wyrażę,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1203-1
+00:10:14.211 --> 00:10:19.838
+<v Aleksander Smywiński-Pohl>dlatego tutaj problem pewnego,
+natomiast można to inaczej, że tak powiem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1210-0
+00:10:20.508 --> 00:10:23.348
+<v Aleksander Smywiński-Pohl>Ograć, a mianowicie w ten sposób, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1220-0
+00:10:24.268 --> 00:10:28.108
+<v Aleksander Smywiński-Pohl>W trakcie tego post treningu czy czy RA
+forstment learning.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1227-0
+00:10:29.628 --> 00:10:31.668
+<v Aleksander Smywiński-Pohl>Yy czy uczenia ze wzmocnieniem?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1247-0
+00:10:32.948 --> 00:10:36.778
+<v Aleksander Smywiński-Pohl>Model sposób sobie radzić z rodzaju
+zadaniem,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1247-1
+00:10:36.778 --> 00:10:42.108
+<v Aleksander Smywiński-Pohl>czyli może sobie po prostu przeliterować
+ten wyraz i on wstawi.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1266-0
+00:10:44.148 --> 00:10:49.591
+<v Aleksander Smywiński-Pohl>No właśnie no to jest ciekawe prawda
+jakby nie widzi tego bezpośrednio,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1266-1
+00:10:49.591 --> 00:10:52.388
+<v Aleksander Smywiński-Pohl>że są te literki r ale jest w stanie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1278-0
+00:10:53.188 --> 00:10:56.582
+<v Aleksander Smywiński-Pohl>Przekształcać tekst,
+jedne teksty w inne to robią te modele</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1278-1
+00:10:56.582 --> 00:10:57.148
+<v Aleksander Smywiński-Pohl>cały czas.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1285-0
+00:10:58.388 --> 00:11:02.468
+<v Aleksander Smywiński-Pohl>Jest w stanie z tego w sensie
+pojedynczego słowa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1313-0
+00:11:03.788 --> 00:11:09.708
+<v Aleksander Smywiński-Pohl>Zrobić wiele no słów, powiedzmy,
+które są oddzielone na przykład spacjami</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1313-1
+00:11:09.708 --> 00:11:15.388
+<v Aleksander Smywiński-Pohl>i wtedy taka każda pojedyncza litera jest
+najczęściej jako osobny tor.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1314-0
+00:11:15.628 --> 00:11:15.708
+<v Aleksander Smywiński-Pohl>Ok.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1325-0
+00:11:16.908 --> 00:11:20.908
+<v Aleksander Smywiński-Pohl>I może sobie to po prostu jakby policzyć
+tak już tak na zasadzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1349-0
+00:11:23.148 --> 00:11:27.704
+<v Aleksander Smywiński-Pohl>Prostej kalkulacji,
+którą do 10 taki model spokojnie sobie</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1349-1
+00:11:27.704 --> 00:11:32.724
+<v Aleksander Smywiński-Pohl>zrobi, jak chodzić dalej,
+to to wcale nie jest takie takie takie</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1349-2
+00:11:32.724 --> 00:11:33.188
+<v Aleksander Smywiński-Pohl>dobre.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1353-0
+00:11:34.068 --> 00:11:34.908
+<v Aleksander Smywiński-Pohl>Staję sobie tak świetnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1368-0
+00:11:36.188 --> 00:11:40.104
+<v Aleksander Smywiński-Pohl>Dodawanie większych liczb,
+ale tak to jest inna inna metoda,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1368-1
+00:11:40.104 --> 00:11:41.068
+<v Aleksander Smywiński-Pohl>inna możliwość.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1373-0
+00:11:46.818 --> 00:11:47.338
+<v Aleksander Smywiński-Pohl>Czyli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1389-0
+00:11:50.438 --> 00:11:53.709
+<v Aleksander Smywiński-Pohl>Taką formę,
+która byłaby naddatna do tego policzyć</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1389-1
+00:11:53.709 --> 00:11:56.659
+<v Aleksander Smywiński-Pohl>tej gier,
+więc to jest taki właśnie przykład,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1389-2
+00:11:56.659 --> 00:11:57.878
+<v Aleksander Smywiński-Pohl>który pokazuje, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1399-0
+00:12:00.178 --> 00:12:03.098
+<v Aleksander Smywiński-Pohl>Ta ta to może w jakimś stopniu ugryźć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1402-0
+00:12:03.828 --> 00:12:04.588
+<v Aleksander Smywiński-Pohl>Ugryźć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1413-0
+00:12:05.668 --> 00:12:09.678
+<v Aleksander Smywiński-Pohl>Zdolność do takiego modelu,
+dlaczego to jest jeszcze ważne?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1413-1
+00:12:09.678 --> 00:12:10.948
+<v Aleksander Smywiński-Pohl>Proszę państwa, no.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1415-0
+00:12:12.588 --> 00:12:13.148
+<v Aleksander Smywiński-Pohl>Od.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1421-0
+00:12:14.838 --> 00:12:16.038
+<v Aleksander Smywiński-Pohl>Udostępni państwu tą kartę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1431-0
+00:12:17.028 --> 00:12:23.108
+<v Aleksander Smywiński-Pohl>Mamy tutaj taki dość ważny,
+prawda end jak cennik, tak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1433-0
+00:12:24.508 --> 00:12:25.308
+<v Aleksander Smywiński-Pohl>Cennik.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1440-0
+00:12:26.108 --> 00:12:28.388
+<v Aleksander Smywiński-Pohl>Yy i cóż, ten cennik nam mówi?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1446-0
+00:12:30.458 --> 00:12:32.898
+<v Aleksander Smywiński-Pohl>Dlaczego tokeny są ważne?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1455-0
+00:12:34.028 --> 00:12:37.388
+<v Aleksander Smywiński-Pohl>No dlatego, że one są podstawą cennika.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1464-0
+00:12:41.828 --> 00:12:45.178
+<v Aleksander Smywiński-Pohl>Yy,
+one są podstawą tego taki dostarczyciel</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1464-1
+00:12:45.178 --> 00:12:45.788
+<v Aleksander Smywiński-Pohl>serwisu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1483-0
+00:12:46.228 --> 00:12:51.960
+<v Aleksander Smywiński-Pohl>Polegającego na przetwarzaniu danych z
+użyciem dużego modelu języka będzie nas,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1483-1
+00:12:51.960 --> 00:12:54.468
+<v Aleksander Smywiński-Pohl>że tak powiem, prawda albo inaczej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1489-0
+00:12:55.428 --> 00:12:58.668
+<v Aleksander Smywiński-Pohl>Jeżeli można zadanie opisać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1492-0
+00:12:59.508 --> 00:13:00.148
+<v Aleksander Smywiński-Pohl>Języka.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1498-0
+00:13:03.038 --> 00:13:04.638
+<v Aleksander Smywiński-Pohl>Jeden z tych języków potok.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1507-0
+00:13:06.478 --> 00:13:08.958
+<v Aleksander Smywiński-Pohl>Produkuje, nie wiem 20 więcej tokenów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1516-0
+00:13:13.718 --> 00:13:18.318
+<v Aleksander Smywiński-Pohl>To no sorry,
+ale będzie po prostu z automatu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1525-0
+00:13:20.108 --> 00:13:24.468
+<v Aleksander Smywiński-Pohl>Używanie z tym modelem będzie po prostu
+droższe.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1539-0
+00:13:26.948 --> 00:13:29.830
+<v Aleksander Smywiński-Pohl>A widzimy w tym cenniku,
+że to co jest jakby najdroższe,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1539-1
+00:13:29.830 --> 00:13:31.348
+<v Aleksander Smywiński-Pohl>to jest oczywiście ta cena za.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1543-0
+00:13:32.108 --> 00:13:34.548
+<v Aleksander Smywiński-Pohl>Za tokeny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1549-0
+00:13:36.318 --> 00:13:38.078
+<v Aleksander Smywiński-Pohl>No bo to jest po prostu kosztowny problem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1551-0
+00:13:39.908 --> 00:13:40.548
+<v Aleksander Smywiński-Pohl>Więc.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1593-0
+00:13:42.588 --> 00:13:47.344
+<v Aleksander Smywiński-Pohl>Ten tutaj ten aktualny,
+powiedzmy ten przejść i że jeżeli mamy</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1593-1
+00:13:47.344 --> 00:13:52.554
+<v Aleksander Smywiński-Pohl>token wyjść, to są te tokeny,
+które pojawiają się w naszym produkcie</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1593-2
+00:13:52.554 --> 00:13:58.293
+<v Aleksander Smywiński-Pohl>plus oczywiście we wszystkich no
+dokumentach czy plikach czy czy cokolwiek.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1593-3
+00:13:58.293 --> 00:14:02.748
+<v Aleksander Smywiński-Pohl>Tamten model będzie chciał analizować
+jako dane wejściowe.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1611-0
+00:14:03.708 --> 00:14:10.011
+<v Aleksander Smywiński-Pohl>To jest nasz jakby punkt odniesienia tych
+produkujemy pewien pewien wynik tworzenia</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1611-1
+00:14:10.011 --> 00:14:13.388
+<v Aleksander Smywiński-Pohl>tego modelu,
+to będzie pięciokrotnie wyższy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1625-0
+00:14:17.648 --> 00:14:23.768
+<v Aleksander Smywiński-Pohl>Ale jeszcze możemy iść w ten sposób,
+że są tak zwane tokeny, prawda tam dziś?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1649-0
+00:14:27.758 --> 00:14:35.250
+<v Aleksander Smywiński-Pohl>Rowane tak ta cena jest dziesięciokrotna
+dziesięciokrotnie niższa, więc widzimy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1649-1
+00:14:35.250 --> 00:14:38.118
+<v Aleksander Smywiński-Pohl>że pokem stał się takim prawda.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1656-0
+00:14:39.428 --> 00:14:42.588
+<v Aleksander Smywiński-Pohl>Ktoś informacji, którą przetwarzamy,
+powiedzmy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1664-0
+00:14:44.118 --> 00:14:46.478
+<v Aleksander Smywiński-Pohl>Stała się podstawą do cennika.
+Kto by podał?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1687-0
+00:14:49.068 --> 00:14:53.571
+<v Aleksander Smywiński-Pohl>Yy i więcej,
+jeżeli używamy jednego języka drugiego</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1687-1
+00:14:53.571 --> 00:14:58.508
+<v Aleksander Smywiński-Pohl>języka, jeden z język jest, co znaczy,
+że ta sama treść.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1693-0
+00:14:59.358 --> 00:15:01.838
+<v Aleksander Smywiński-Pohl>Generuje po prostu tokenów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1700-0
+00:15:02.828 --> 00:15:04.828
+<v Aleksander Smywiński-Pohl>No to możemy po prostu spędzić.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1705-0
+00:15:05.828 --> 00:15:07.548
+<v Aleksander Smywiński-Pohl>Zaoszczędzić na kosztach api.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1709-0
+00:15:10.598 --> 00:15:11.918
+<v Aleksander Smywiński-Pohl>Zmienia język.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1713-0
+00:15:13.908 --> 00:15:14.908
+<v Aleksander Smywiński-Pohl>W tym produktu jemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1735-0
+00:15:15.788 --> 00:15:20.847
+<v Aleksander Smywiński-Pohl>Albo ewentualnie możemy też popatrzeć na
+to z innej strony z innej perspektywy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1735-1
+00:15:20.847 --> 00:15:23.188
+<v Aleksander Smywiński-Pohl>a mianowicie takiej, że jeżeli udało.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1741-0
+00:15:24.908 --> 00:15:26.668
+<v Aleksander Smywiński-Pohl>Datować jakiś token izer.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1755-0
+00:15:28.418 --> 00:15:32.142
+<v Aleksander Smywiński-Pohl>W taki sposób,
+że planowany model dalej działa tak samo</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1755-1
+00:15:32.142 --> 00:15:33.738
+<v Aleksander Smywiński-Pohl>jak działał świetnie, a.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1766-0
+00:15:34.628 --> 00:15:38.148
+<v Aleksander Smywiński-Pohl>Interesującego nas języka produkuje ona
+przed 20% mniej tokenów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1774-0
+00:15:40.788 --> 00:15:43.628
+<v Aleksander Smywiński-Pohl>To mamy psa, mamy 20% zysku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1783-0
+00:15:46.718 --> 00:15:51.918
+<v Aleksander Smywiński-Pohl>Przed tych dokumentów,
+więc ten problem jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1788-0
+00:15:52.508 --> 00:15:53.708
+<v Aleksander Smywiński-Pohl>Ekonomicznie jest dość ważne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1819-0
+00:15:54.988 --> 00:15:59.051
+<v Aleksander Smywiński-Pohl>Nie pod względem tego,
+że że mamy pewne ciekawostki,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1819-1
+00:15:59.051 --> 00:16:02.961
+<v Aleksander Smywiński-Pohl>problemy i tak dalej,
+ale że tokeny stały się tym,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1819-2
+00:16:02.961 --> 00:16:07.868
+<v Aleksander Smywiński-Pohl>powiedzmy dzisiejszą walutą im podajcie
+mi to da, poruszy, nie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1830-0
+00:16:08.028 --> 00:16:11.748
+<v Aleksander Smywiński-Pohl>Dajcie mi tokeny,
+a te rozwiązanie matematycznych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1854-0
+00:16:13.068 --> 00:16:19.751
+<v Aleksander Smywiński-Pohl>Problemów dajcie im tokeny a wynajdę nowy,
+nowy albo albo wygeneruje 100 mi</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1854-1
+00:16:19.751 --> 00:16:24.148
+<v Aleksander Smywiński-Pohl>dokumentów slopem to też wszystkie jeden
+z jakby.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1863-0
+00:16:25.988 --> 00:16:30.548
+<v Aleksander Smywiński-Pohl>Możliwych biegów tego,
+że ktoś daje dostęp do tokenów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1885-0
+00:16:31.548 --> 00:16:36.858
+<v Aleksander Smywiński-Pohl>Więc te tokeny, no jakby no mówię,
+no to to jest wynik token i to nie jest</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1885-1
+00:16:36.858 --> 00:16:42.028
+<v Aleksander Smywiński-Pohl>jakieś sensie tokenizacja miał podział tu
+na jednostki jakieś jednostki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1904-0
+00:16:43.268 --> 00:16:47.917
+<v Aleksander Smywiński-Pohl>Nie to z osobny temat,
+natomiast jakoś ten jakby po prostu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1904-1
+00:16:47.917 --> 00:16:51.148
+<v Aleksander Smywiński-Pohl>podzielić, więc to jest bez bardzo ważny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1910-0
+00:16:51.948 --> 00:16:53.548
+<v Aleksander Smywiński-Pohl>Bardzo ważny aspekt.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1915-0
+00:16:55.988 --> 00:16:58.028
+<v Aleksander Smywiński-Pohl>Od niego zaczynamy naszą opowieść.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1921-0
+00:16:59.988 --> 00:17:01.308
+<v Aleksander Smywiński-Pohl>O dużych modelach językowej i teraz.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1938-0
+00:17:02.228 --> 00:17:08.259
+<v Aleksander Smywiński-Pohl>To ja powiedziałem, czym jest lokalizacja.
+Jest to po prostu Zamiana surowego tekstu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1938-1
+00:17:08.259 --> 00:17:10.388
+<v Aleksander Smywiński-Pohl>wydzielne dyskretne jednostki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1953-0
+00:17:11.588 --> 00:17:14.970
+<v Aleksander Smywiński-Pohl>Po to,
+żeby one mogły być przetwarzane przez tę</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1953-1
+00:17:14.970 --> 00:17:16.028
+<v Aleksander Smywiński-Pohl>sieć neuronową.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1974-0
+00:17:17.028 --> 00:17:21.593
+<v Aleksander Smywiński-Pohl>Ee one oczywiście jakby ktoś już
+cośkolwiek liznął one oczywiście nie</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1974-1
+00:17:21.593 --> 00:17:24.268
+<v Aleksander Smywiński-Pohl>pozostają takimi dyskretnymi wartościami.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1983-0
+00:17:25.428 --> 00:17:29.548
+<v Aleksander Smywiński-Pohl>Tylko są zamieniane na pewne wektory
+całko, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1986-0
+00:17:33.508 --> 00:17:34.228
+<v Aleksander Smywiński-Pohl>Natomiast.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/1991-0
+00:17:35.148 --> 00:17:36.428
+<v Aleksander Smywiński-Pohl>To jest osobne jakby temat.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2014-0
+00:17:38.068 --> 00:17:42.699
+<v Aleksander Smywiński-Pohl>Koncentrujemy się w tym momencie na samej
+tekstu na taką formę,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2014-1
+00:17:42.699 --> 00:17:47.548
+<v Aleksander Smywiński-Pohl>która by byłaby przetwarzana przez przez
+taki duży model językowy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2033-0
+00:17:51.998 --> 00:17:55.406
+<v Aleksander Smywiński-Pohl>Też w konsekwencji oczywiście ten model
+nigdy nie widzi tego surowego tekstu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2033-1
+00:17:55.406 --> 00:17:57.678
+<v Aleksander Smywiński-Pohl>Tutaj są pewne wyjątki,
+ale to za chwileczkę sobie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2041-0
+00:17:59.598 --> 00:18:02.318
+<v Aleksander Smywiński-Pohl>To sobie za chwilkę tą ten temat zgłębimy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2056-0
+00:18:05.238 --> 00:18:08.473
+<v Aleksander Smywiński-Pohl>No i każda taka zdolność modelu,
+która się pojawia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2056-1
+00:18:08.473 --> 00:18:10.278
+<v Aleksander Smywiński-Pohl>No może być w jakimś stopniu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2059-0
+00:18:11.228 --> 00:18:12.548
+<v Aleksander Smywiński-Pohl>Uzależniona.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2073-0
+00:18:13.828 --> 00:18:20.748
+<v Aleksander Smywiński-Pohl>Tego jak przebiega taka typowa taki
+podtypowy potok przetwora.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2087-0
+00:18:23.418 --> 00:18:28.538
+<v Aleksander Smywiński-Pohl>Token i w zasadzie tekstu to jest po
+prostu mamy na wejściu surowy tekst.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2089-0
+00:18:30.318 --> 00:18:30.878
+<v Aleksander Smywiński-Pohl>Jemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2113-0
+00:18:31.948 --> 00:18:37.165
+<v Aleksander Smywiński-Pohl>Dlaczego coś coś znormalizuje też biorąc
+dzisiaj się przetrwała wszystkie dane?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2113-1
+00:18:37.165 --> 00:18:42.188
+<v Aleksander Smywiński-Pohl>Większość danych w Unii codzie tam są
+takie różne reguły, które mówią o tym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2130-0
+00:18:43.468 --> 00:18:47.596
+<v Aleksander Smywiński-Pohl>Ja przykład,
+że można połączyć lidery z jakąś firmę z</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2130-1
+00:18:47.596 --> 00:18:50.348
+<v Aleksander Smywiński-Pohl>jakimś innym czym się z nową literę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2136-0
+00:18:51.508 --> 00:18:53.708
+<v Aleksander Smywiński-Pohl>A połączyć z ogonkiem i dostaniemy ą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2138-0
+00:18:54.988 --> 00:18:55.268
+<v Aleksander Smywiński-Pohl>Jak?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2142-0
+00:18:58.348 --> 00:18:58.908
+<v Aleksander Smywiński-Pohl>Przynieś nam.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2148-0
+00:19:00.488 --> 00:19:01.848
+<v Aleksander Smywiński-Pohl>A jak się wyraża logiczne?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2153-0
+00:19:03.638 --> 00:19:05.558
+<v Aleksander Smywiński-Pohl>Więc żeby wyeliminować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2154-0
+00:19:06.628 --> 00:19:07.068
+<v Aleksander Smywiński-Pohl>Tą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2159-0
+00:19:07.828 --> 00:19:09.148
+<v Aleksander Smywiński-Pohl>Zmienność tego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2166-0
+00:19:10.388 --> 00:19:12.228
+<v Aleksander Smywiński-Pohl>Tego aspektu to robimy to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2182-0
+00:19:14.868 --> 00:19:20.988
+<v Aleksander Smywiński-Pohl>Potem mamy opcjonalny etap,
+jakim jest preto. Nie każdy model żyjący.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2184-0
+00:19:21.868 --> 00:19:22.548
+<v Aleksander Smywiński-Pohl>Będzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2191-0
+00:19:23.628 --> 00:19:25.228
+<v Aleksander Smywiński-Pohl>Wykonywał tą petycję.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2200-0
+00:19:26.268 --> 00:19:29.068
+<v Aleksander Smywiński-Pohl>Bo też nie w każdym języku ma ona sens,
+no i mamy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2206-0
+00:19:30.308 --> 00:19:32.228
+<v Aleksander Smywiński-Pohl>Potem ten bardzo ważny etap.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2211-0
+00:19:33.148 --> 00:19:34.108
+<v Aleksander Smywiński-Pohl>Użycie modelu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2216-0
+00:19:37.038 --> 00:19:38.678
+<v Aleksander Smywiński-Pohl>Po to, żeby on wyniósł?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2229-0
+00:19:40.828 --> 00:19:45.628
+<v Aleksander Smywiński-Pohl>Te jednostki, które chcemy przetwarzać,
+czyli po prostu tokeny, no i potem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2241-0
+00:19:47.348 --> 00:19:53.148
+<v Aleksander Smywiński-Pohl>Jakieś tam do tokeny typu cele sep padł i
+tak dalej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2250-0
+00:19:54.348 --> 00:19:58.948
+<v Aleksander Smywiński-Pohl>I początek zdania. Koniec zdania z tekstu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2260-0
+00:19:59.788 --> 00:20:03.508
+<v Aleksander Smywiński-Pohl>I tak dalej i tak dalej koniec mamy te
+identyfikatory.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2297-0
+00:20:05.398 --> 00:20:10.464
+<v Aleksander Smywiński-Pohl>Identyfikatory i to one tym wyższym takim
+materiałem surowym nieobrobionym,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2297-1
+00:20:10.464 --> 00:20:14.998
+<v Aleksander Smywiński-Pohl>który trafia do sieci neuronowej.
+Tam jest jeszcze jeden osadzenie,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2297-2
+00:20:14.998 --> 00:20:19.864
+<v Aleksander Smywiński-Pohl>ale możemy popatrzeć na 100 koszulkę na
+pewnego rodzaju operację w sieci</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2297-3
+00:20:19.864 --> 00:20:20.598
+<v Aleksander Smywiński-Pohl>neuronowej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2298-0
+00:20:20.708 --> 00:20:20.788
+<v Aleksander Smywiński-Pohl>Ok.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2313-0
+00:20:21.668 --> 00:20:26.408
+<v Aleksander Smywiński-Pohl>Jakby ten potok tutaj wydaje się banalna,
+że jest podzielić po prostu tekst na</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2313-1
+00:20:26.408 --> 00:20:26.828
+<v Aleksander Smywiński-Pohl>części.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2321-0
+00:20:27.758 --> 00:20:29.878
+<v Aleksander Smywiński-Pohl>A okazuje się,
+że jest tutaj też jednak trzeba.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2328-0
+00:20:31.418 --> 00:20:34.378
+<v Aleksander Smywiński-Pohl>Efekty pewne aspekty po prostu uwzględnia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2336-0
+00:20:35.178 --> 00:20:37.938
+<v Aleksander Smywiński-Pohl>I teraz proszę państwa,
+dochodzimy do tego takiego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2348-0
+00:20:40.268 --> 00:20:45.428
+<v Aleksander Smywiński-Pohl>Pytania powiedzieć związanego z nią,
+jak dzielić ten?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2352-0
+00:20:47.068 --> 00:20:48.188
+<v Aleksander Smywiński-Pohl>Jak dzielić ten tekst?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2362-0
+00:20:51.448 --> 00:20:56.168
+<v Aleksander Smywiński-Pohl>Yy i on trywialny dlaczego?
+No bo mamy tutaj takie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2367-0
+00:20:56.858 --> 00:20:58.178
+<v Aleksander Smywiński-Pohl>Po prostu przeciwstawne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2369-0
+00:20:59.018 --> 00:20:59.738
+<v Aleksander Smywiński-Pohl>Sytuacje.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2371-0
+00:21:01.168 --> 00:21:02.008
+<v Aleksander Smywiński-Pohl>Jeżeli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2386-0
+00:21:03.668 --> 00:21:10.124
+<v Aleksander Smywiński-Pohl>Zwiększymy rozmiar słownika tak,
+żeby on zerwał bezpośrednio wprost</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2386-1
+00:21:10.124 --> 00:21:12.308
+<v Aleksander Smywiński-Pohl>większą liczbę tokenów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2389-0
+00:21:18.498 --> 00:21:19.338
+<v Aleksander Smywiński-Pohl>To oczywiście dostanie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2406-0
+00:21:21.268 --> 00:21:25.903
+<v Aleksander Smywiński-Pohl>Tą lepszą granulat ność reprezentacji,
+to znaczy będziemy w stanie odróżnić</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2406-1
+00:21:25.903 --> 00:21:27.428
+<v Aleksander Smywiński-Pohl>liczbę wyrazów od siebie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2413-0
+00:21:29.698 --> 00:21:30.978
+<v Aleksander Smywiński-Pohl>Prośby wyrazu w stanie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2429-0
+00:21:32.448 --> 00:21:38.974
+<v Aleksander Smywiński-Pohl>Takim w tej formie bez jakby premier
+reprezentować co zawsze jest przydatne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2429-1
+00:21:38.974 --> 00:21:41.008
+<v Aleksander Smywiński-Pohl>no ale przy tym Słownik.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2432-0
+00:21:41.778 --> 00:21:42.338
+<v Aleksander Smywiński-Pohl>Z drugiej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2434-0
+00:21:45.648 --> 00:21:46.128
+<v Aleksander Smywiński-Pohl>Właśnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2443-0
+00:21:47.138 --> 00:21:51.818
+<v Aleksander Smywiński-Pohl>Efektywność nie idzie w parze z
+semantyczną.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2460-0
+00:21:53.258 --> 00:22:00.284
+<v Aleksander Smywiński-Pohl>To za tym tej tej stycznej struktury,
+więc podsumowując duża duży rozmiar</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2460-1
+00:22:00.284 --> 00:22:01.898
+<v Aleksander Smywiński-Pohl>słownika krótkie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2465-0
+00:22:03.748 --> 00:22:05.028
+<v Aleksander Smywiński-Pohl>Tokeny nie są więcej informacji.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2474-0
+00:22:05.698 --> 00:22:08.858
+<v Aleksander Smywiński-Pohl>Ale daje to wielką macie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2476-0
+00:22:13.628 --> 00:22:14.468
+<v Aleksander Smywiński-Pohl>Mało wynik.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2480-0
+00:22:17.258 --> 00:22:19.458
+<v Aleksander Smywiński-Pohl>Fajnie mniej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2503-0
+00:22:20.418 --> 00:22:26.175
+<v Aleksander Smywiński-Pohl>Mniej natomiast no niestety sorry winetu,
+ale nic nie jest za darmo i rośnie nam</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2503-1
+00:22:26.175 --> 00:22:30.938
+<v Aleksander Smywiński-Pohl>długość naszej sekwencji,
+a jeżeli ktoś cośkolwiek wielach to wie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2509-0
+00:22:31.418 --> 00:22:33.538
+<v Aleksander Smywiński-Pohl>Położony w ogólnie rzecz biorąc jest
+kwadratowa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2523-0
+00:22:34.498 --> 00:22:38.536
+<v Aleksander Smywiński-Pohl>Typowej naiwnej,
+naiwnej no podstawowej implementacji</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2523-1
+00:22:38.536 --> 00:22:39.508
+<v Aleksander Smywiński-Pohl>atencji więc.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2555-0
+00:22:41.323 --> 00:22:44.700
+<v Aleksander Smywiński-Pohl>Kwadratowa złożoność ze względu na
+długość tekstu powoduje,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2555-1
+00:22:44.700 --> 00:22:48.189
+<v Aleksander Smywiński-Pohl>że jak mamy mało znik będziemy generować
+bardzo dużo tokenów,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2555-2
+00:22:48.189 --> 00:22:52.523
+<v Aleksander Smywiński-Pohl>a już jak włączymy tego mechanizm atencji,
+to w ogóle to się wszystko sypie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2561-0
+00:22:53.113 --> 00:22:54.713
+<v Aleksander Smywiński-Pohl>Bo tam to już eksploduje, no.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2564-0
+00:22:55.553 --> 00:22:56.633
+<v Aleksander Smywiński-Pohl>Dlatego też.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2575-0
+00:22:57.793 --> 00:23:01.993
+<v Aleksander Smywiński-Pohl>Po współczesne metody psują coś,
+co nazywamy sap u.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2578-0
+00:23:05.123 --> 00:23:06.643
+<v Aleksander Smywiński-Pohl>Które to podejście?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2583-0
+00:23:07.193 --> 00:23:08.753
+<v Aleksander Smywiński-Pohl>Łączy ze sobą te 2 elementy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2592-0
+00:23:10.563 --> 00:23:14.032
+<v Aleksander Smywiński-Pohl>Nie tak,
+próbuję kompromis pomiędzy tymi</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2592-1
+00:23:14.032 --> 00:23:14.963
+<v Aleksander Smywiński-Pohl>elementami.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2613-0
+00:23:16.903 --> 00:23:22.444
+<v Aleksander Smywiński-Pohl>Ale nie pojedyncze słowa,
+ale niecałe spotkajmy się gdzieś pośrodku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2613-1
+00:23:22.444 --> 00:23:27.583
+<v Aleksander Smywiński-Pohl>No i ten właśnie jako liczony element,
+który można przetwarzać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2614-0
+00:23:31.113 --> 00:23:31.233
+<v Aleksander Smywiński-Pohl>Yy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2621-0
+00:23:31.993 --> 00:23:33.833
+<v Aleksander Smywiński-Pohl>Tutaj jeszcze jakieś inne przykłady
+takich?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2626-0
+00:23:40.703 --> 00:23:43.023
+<v Aleksander Smywiński-Pohl>I na działanie modelu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2647-0
+00:23:48.273 --> 00:23:52.737
+<v Aleksander Smywiński-Pohl>Ten błędy związane z generowaniem kodu
+źródłowego i tak dalej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2647-1
+00:23:52.737 --> 00:23:55.713
+<v Aleksander Smywiński-Pohl>One też jeżeli nie mamy zoptymalizowanego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2657-0
+00:23:57.153 --> 00:23:59.953
+<v Aleksander Smywiński-Pohl>To w przypadku kodu, no to takiego,
+który by.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2660-0
+00:24:01.313 --> 00:24:02.233
+<v Aleksander Smywiński-Pohl>Tenże kot.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2672-0
+00:24:04.173 --> 00:24:08.053
+<v Aleksander Smywiński-Pohl>Dobrze dzielił na części w przypadku
+jakiś innych, prawda? No to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2681-0
+00:24:09.873 --> 00:24:12.433
+<v Aleksander Smywiński-Pohl>Według według tamtejszego jakby problemu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2697-0
+00:24:14.163 --> 00:24:18.657
+<v Aleksander Smywiński-Pohl>Yy no a w przypadku tłumaczenia no to
+musimy tutaj zadbać o to,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2697-1
+00:24:18.657 --> 00:24:20.763
+<v Aleksander Smywiński-Pohl>żebyśmy mieli w miarę podobną.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2711-0
+00:24:22.363 --> 00:24:25.683
+<v Aleksander Smywiński-Pohl>W miarę to korespondowała między sobą,
+czyli też wydaliśmy przykład nie była.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2730-0
+00:24:26.073 --> 00:24:30.394
+<v Aleksander Smywiński-Pohl>W języku dla danej kontekstu 100 token,
+a w drugim 1000. Prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2730-1
+00:24:30.394 --> 00:24:35.113
+<v Aleksander Smywiński-Pohl>To nie jest dobra sytuacja i to wszystko
+jest dość dość powiedziałbym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2736-0
+00:24:38.303 --> 00:24:40.063
+<v Aleksander Smywiński-Pohl>Troszkę historycznego kontekstu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2746-0
+00:24:41.603 --> 00:24:46.403
+<v Aleksander Smywiński-Pohl>Zamierzchłych czasach, czyli 10 lat temu,
+może 15.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2752-0
+00:24:47.553 --> 00:24:49.633
+<v Aleksander Smywiński-Pohl>I to i na tak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2755-0
+00:24:50.593 --> 00:24:51.473
+<v Aleksander Smywiński-Pohl>Naukowcy nie też.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2772-0
+00:24:52.353 --> 00:24:59.276
+<v Aleksander Smywiński-Pohl>Ee po prostu to się go dzieliło na
+przykład po spacjach i to były elementy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2772-1
+00:24:59.276 --> 00:25:01.553
+<v Aleksander Smywiński-Pohl>które żeśmy przetwarzali.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2776-0
+00:25:02.513 --> 00:25:03.433
+<v Aleksander Smywiński-Pohl>Przepraszam na sekundę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2791-0
+00:26:03.263 --> 00:26:04.463
+<v Aleksander Smywiński-Pohl>Już Jestem z powrotem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2803-0
+00:26:06.203 --> 00:26:10.803
+<v Aleksander Smywiński-Pohl>Więc kiedyś właśnie tak próbowaliśmy
+sobie, no wyraz.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2806-0
+00:26:12.803 --> 00:26:13.683
+<v Aleksander Smywiński-Pohl>Tylko to jest święta.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2817-0
+00:26:14.113 --> 00:26:19.073
+<v Aleksander Smywiński-Pohl>I nie ma lenie po prostu tekstu na jakieś
+inne jedno i saboard to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2828-0
+00:26:20.803 --> 00:26:24.523
+<v Aleksander Smywiński-Pohl>Dzieliliśmy to próbowali jakiś Słownik i
+budowaliśmy i tak dalej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2844-0
+00:26:25.353 --> 00:26:29.384
+<v Aleksander Smywiński-Pohl>No ale takie podejście,
+że oparte na na spacjach no no nie jest</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2844-1
+00:26:29.384 --> 00:26:30.833
+<v Aleksander Smywiński-Pohl>uniwersalne oczywiście.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2846-0
+00:26:35.133 --> 00:26:35.973
+<v Aleksander Smywiński-Pohl>Tylko też.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2865-0
+00:26:37.943 --> 00:26:40.793
+<v Aleksander Smywiński-Pohl>Głównie jak przynajmniej jakiś język
+azjatyckie, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2865-1
+00:26:40.793 --> 00:26:43.943
+<v Aleksander Smywiński-Pohl>No to tutaj się pojawiają token,
+to to się pojawiają problemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2888-0
+00:26:46.033 --> 00:26:51.007
+<v Aleksander Smywiński-Pohl>Tutaj mamy przykład właśnie,
+że tam slorem ipsum ten tekst,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2888-1
+00:26:51.007 --> 00:26:56.147
+<v Aleksander Smywiński-Pohl>który państwo widzą,
+to jest tam bodajże chińskie lore mipsum</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2888-2
+00:26:56.147 --> 00:26:57.473
+<v Aleksander Smywiński-Pohl>japońskie, no i.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2901-0
+00:26:59.553 --> 00:27:04.433
+<v Aleksander Smywiński-Pohl>No no praktycznie tam nie ma,
+tam nie ma spacji, tak więc nie zadziała.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2912-0
+00:27:07.763 --> 00:27:10.563
+<v Aleksander Smywiński-Pohl>Tutaj z kolei mamy właśnie też przykład.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2915-0
+00:27:11.923 --> 00:27:12.443
+<v Aleksander Smywiński-Pohl>I dog.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2928-0
+00:27:14.023 --> 00:27:18.903
+<v Aleksander Smywiński-Pohl>Bet nele Brown fuks, spring i bellen hunt.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2946-0
+00:27:19.953 --> 00:27:24.261
+<v Aleksander Smywiński-Pohl>No ale jakbyśmy chiński czy arabski to
+mamy tutaj chiński,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2946-1
+00:27:24.261 --> 00:27:27.473
+<v Aleksander Smywiński-Pohl>przede wszystkim to w ogóle nic nie
+dzieli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2961-0
+00:27:27.993 --> 00:27:32.545
+<v Aleksander Smywiński-Pohl>Więc takie podejście to jest naiwne,
+ono nie nie nadaje się po prostu do tego,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2961-1
+00:27:32.545 --> 00:27:32.833
+<v Aleksander Smywiński-Pohl>żeby.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2965-0
+00:27:35.163 --> 00:27:35.843
+<v Aleksander Smywiński-Pohl>Przetwarzać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2982-0
+00:27:36.873 --> 00:27:38.964
+<v Aleksander Smywiński-Pohl>Tworzyć po prostu model,
+który jest uniwersalny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2982-1
+00:27:38.964 --> 00:27:41.993
+<v Aleksander Smywiński-Pohl>Tak będzie działał z chińskim,
+będzie działo z Polski, będzie działał.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2989-0
+00:27:47.503 --> 00:27:50.783
+<v Aleksander Smywiński-Pohl>Trzeba tutaj jakby podkreślić tak, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/2999-0
+00:27:53.843 --> 00:27:57.603
+<v Aleksander Smywiński-Pohl>Racja, nie jest tylko kwestią tego,
+jakby ten tekst podzielimy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3005-0
+00:27:58.633 --> 00:28:01.033
+<v Aleksander Smywiński-Pohl>Ale jest kwestią tego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3024-0
+00:28:02.613 --> 00:28:08.320
+<v Aleksander Smywiński-Pohl>Jak model możemy powiedzieć? No tak,
+widzi to oczywiście jest pewnego rodzaju</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3024-1
+00:28:08.320 --> 00:28:11.613
+<v Aleksander Smywiński-Pohl>metafora, jak ten model widzi te dane,
+więc.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3045-0
+00:28:12.433 --> 00:28:16.909
+<v Aleksander Smywiński-Pohl>To na przykład mówiliśmy o tym,
+że jakby jak język jest na większą liczbę</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3045-1
+00:28:16.909 --> 00:28:19.993
+<v Aleksander Smywiński-Pohl>tokenów,
+no to model po prostu dla modelu to jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3052-0
+00:28:20.353 --> 00:28:21.553
+<v Aleksander Smywiński-Pohl>W sensie dlatego dla tej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3057-0
+00:28:23.393 --> 00:28:24.833
+<v Aleksander Smywiński-Pohl>Po prostu to są jakby.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3079-0
+00:28:25.593 --> 00:28:28.263
+<v Aleksander Smywiński-Pohl>Nie ma takiej bezpośredniej
+korespondencji między tymi tymi tymi</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3079-1
+00:28:28.263 --> 00:28:30.153
+<v Aleksander Smywiński-Pohl>butami, prawda?
+Bo jeden to jest na przykład.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3091-0
+00:28:32.253 --> 00:28:36.933
+<v Aleksander Smywiński-Pohl>Jakiś tam wiersz, gdzie będzie nie wiem,
+20 nie pustych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3116-0
+00:28:37.513 --> 00:28:41.758
+<v Aleksander Smywiński-Pohl>Elementów a drugi to będzie,
+bo ja wiem czy dziś nie pustych elementów,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3116-1
+00:28:41.758 --> 00:28:46.180
+<v Aleksander Smywiński-Pohl>tak to jakby widzą państwo zupełnie
+zmienia to, co się dzieje w tej sieci,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3116-2
+00:28:46.180 --> 00:28:46.593
+<v Aleksander Smywiński-Pohl>prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3134-0
+00:28:47.593 --> 00:28:50.487
+<v Aleksander Smywiński-Pohl>Jak przychodzą te dane po prostu przez
+przez tą sieć,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3134-1
+00:28:50.487 --> 00:28:52.953
+<v Aleksander Smywiński-Pohl>więc to jest naprawdę bardzo,
+bardzo istotna.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3149-0
+00:28:54.353 --> 00:28:58.203
+<v Aleksander Smywiński-Pohl>Proszę państwa,
+możemy opowiedzieć o takiej ewolucji</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3149-1
+00:28:58.203 --> 00:29:00.673
+<v Aleksander Smywiński-Pohl>tychże tej strategii tokionizacji.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3164-0
+00:29:01.713 --> 00:29:06.269
+<v Aleksander Smywiński-Pohl>I to się cały czas jeszcze nie wiem,
+czy aktualizować ten slajd,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3164-1
+00:29:06.269 --> 00:29:09.073
+<v Aleksander Smywiński-Pohl>ale do zeszłego roku go zaktualizowałem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3166-0
+00:29:10.433 --> 00:29:10.953
+<v Aleksander Smywiński-Pohl>Powiem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3172-0
+00:29:11.793 --> 00:29:13.393
+<v Aleksander Smywiński-Pohl>Możemy powiedzieć tak o dobra?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3176-0
+00:29:15.043 --> 00:29:16.403
+<v Aleksander Smywiński-Pohl>Całe zdania, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3188-0
+00:29:18.593 --> 00:29:23.193
+<v Aleksander Smywiński-Pohl>Mamy zdanie o noc, jakoś ma treść,
+zamień na jakiś wektor.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3201-0
+00:29:24.273 --> 00:29:26.887
+<v Aleksander Smywiński-Pohl>Różne zdania, różne wektory.
+Oczywiście my to robimy tak,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3201-1
+00:29:26.887 --> 00:29:27.833
+<v Aleksander Smywiński-Pohl>w sensie to się robi.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3207-0
+00:29:28.913 --> 00:29:31.913
+<v Aleksander Smywiński-Pohl>Robi się coś takiego tylko nie po to,
+żeby.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3220-0
+00:29:32.993 --> 00:29:37.353
+<v Aleksander Smywiński-Pohl>Wyciągnąć coś z tych reprezentacji,
+żeby odtwarzać jakiś tekst?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3236-0
+00:29:38.193 --> 00:29:40.719
+<v Aleksander Smywiński-Pohl>Czy przetwarzać ten tekst tylko raczej po
+to,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3236-1
+00:29:40.719 --> 00:29:44.233
+<v Aleksander Smywiński-Pohl>żeby na przykład znajdować podobieństwa
+między między tekstami?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3239-0
+00:29:44.953 --> 00:29:45.513
+<v Aleksander Smywiński-Pohl>I wtedy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3245-0
+00:29:46.953 --> 00:29:50.273
+<v Aleksander Smywiński-Pohl>Robimy po czym robić to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3248-0
+00:29:51.393 --> 00:29:52.153
+<v Aleksander Smywiński-Pohl>Po pełnych zdaniach.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3253-0
+00:29:53.313 --> 00:29:55.513
+<v Aleksander Smywiński-Pohl>Drugi drugie podejście.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3262-0
+00:29:57.163 --> 00:30:00.563
+<v Aleksander Smywiński-Pohl>Ale jednocześnie nie sprawdzają,
+co się to jest podział na wyraz.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3275-0
+00:30:01.713 --> 00:30:05.873
+<v Aleksander Smywiński-Pohl>Trzecie podejście ekstremum podział na
+pojedyncze litery.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3294-0
+00:30:07.553 --> 00:30:12.075
+<v Aleksander Smywiński-Pohl>W zasadzie to jeszcze jeszcze jest niższe
+ekstremum, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3294-1
+00:30:12.075 --> 00:30:15.633
+<v Aleksander Smywiński-Pohl>Bo jest są może pojedyncze bajty w Unii
+kodzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3304-0
+00:30:17.033 --> 00:30:20.953
+<v Aleksander Smywiński-Pohl>Litera to może być wtedy bajty to mogą
+być też, że się tam odszkodowania.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3319-0
+00:30:22.673 --> 00:30:26.631
+<v Aleksander Smywiński-Pohl>I ten taki sweet spocik to jest właśnie
+sabot Tokio gdzie,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3319-1
+00:30:26.631 --> 00:30:29.113
+<v Aleksander Smywiński-Pohl>ale nie mamy powiedzieć czyli nie ma.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3339-0
+00:30:29.593 --> 00:30:34.741
+<v Aleksander Smywiński-Pohl>Mamy go dzielimy na duża część wyrazów,
+często pojawiających się będzie jako całe</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3339-1
+00:30:34.741 --> 00:30:38.068
+<v Aleksander Smywiński-Pohl>przetwarzana,
+a te dłuższe będą dzielone na mniejsze</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3339-2
+00:30:38.068 --> 00:30:38.633
+<v Aleksander Smywiński-Pohl>elementy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3350-0
+00:30:39.193 --> 00:30:45.073
+<v Aleksander Smywiński-Pohl>Ale pojawiła się pewna gdzieś tam na
+przestrzeni statku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3359-0
+00:30:48.033 --> 00:30:50.353
+<v Aleksander Smywiński-Pohl>Okresie ostatniego roku chyba lepiej
+powiedzieć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3366-0
+00:30:51.993 --> 00:30:53.913
+<v Aleksander Smywiński-Pohl>Gdzie jest dynamiczne są tokeny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3373-0
+00:30:56.043 --> 00:30:59.643
+<v Aleksander Smywiński-Pohl>Natomiast oczywiście dla ludzi takich jak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3380-0
+00:31:01.883 --> 00:31:04.683
+<v Aleksander Smywiński-Pohl>No jeżeli mamy open, a ja i chcemy liczyć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3391-0
+00:31:06.513 --> 00:31:09.012
+<v Aleksander Smywiński-Pohl>Uzależnienie tokenów,
+a Użytkownik nie wie,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3391-1
+00:31:09.012 --> 00:31:11.113
+<v Aleksander Smywiński-Pohl>jakby się tak spodziewali. To prawda.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3403-0
+00:31:11.833 --> 00:31:13.703
+<v Aleksander Smywiński-Pohl>Możesz powiedzieć,
+że to jest proces nieprzezroczyste i to</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3403-1
+00:31:13.703 --> 00:31:14.273
+<v Aleksander Smywiński-Pohl>jest to jest fakt.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3407-0
+00:31:14.953 --> 00:31:15.673
+<v Aleksander Smywiński-Pohl>Niemniej jednak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3412-0
+00:31:18.753 --> 00:31:19.953
+<v Aleksander Smywiński-Pohl>Tym dynamicznym modelu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3415-0
+00:31:21.553 --> 00:31:22.753
+<v Aleksander Smywiński-Pohl>Mamy dodatkowy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3421-0
+00:31:24.433 --> 00:31:26.513
+<v Aleksander Smywiński-Pohl>Wewnątrz tej całej struktury tych modeli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3438-0
+00:31:27.273 --> 00:31:31.790
+<v Aleksander Smywiński-Pohl>Mamy dodatkowy model,
+który patrzy na znaczy mamy model,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3438-1
+00:31:31.790 --> 00:31:35.673
+<v Aleksander Smywiński-Pohl>który pojedyncze literki i stwierdza okej
+tutaj.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3442-0
+00:31:37.283 --> 00:31:38.083
+<v Aleksander Smywiński-Pohl>My ten token.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3454-0
+00:31:39.233 --> 00:31:43.273
+<v Aleksander Smywiński-Pohl>Tworzy z niego reprezentacją postaci
+wektora ciągłej wartości ciągłych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3456-0
+00:31:46.973 --> 00:31:47.333
+<v Aleksander Smywiński-Pohl>I.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3461-0
+00:31:48.393 --> 00:31:49.833
+<v Aleksander Smywiński-Pohl>I to wchodzi do sieci neuronowej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3464-0
+00:31:51.743 --> 00:31:52.383
+<v Aleksander Smywiński-Pohl>To jest to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3473-0
+00:31:55.113 --> 00:31:59.713
+<v Aleksander Smywiński-Pohl>Dynamiczna to innego nie można, nie można.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3483-0
+00:32:00.433 --> 00:32:04.553
+<v Aleksander Smywiński-Pohl>Nazwa to ten sam wyraz może być
+podzielony na różne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3495-0
+00:32:05.353 --> 00:32:07.976
+<v Aleksander Smywiński-Pohl>Sub tokeny,
+w zależności od powiedzmy kontekstu,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3495-1
+00:32:07.976 --> 00:32:09.153
+<v Aleksander Smywiński-Pohl>w którym on występuje.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3505-0
+00:32:11.313 --> 00:32:15.193
+<v Aleksander Smywiński-Pohl>Organization to już mówiłem.
+Najprostsze podejście dzielimy po słowo.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3511-0
+00:32:17.133 --> 00:32:19.613
+<v Aleksander Smywiński-Pohl>Ma on pewne zalety, takie jak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3520-0
+00:32:20.833 --> 00:32:23.473
+<v Aleksander Smywiński-Pohl>To odwołanie się do tej intuicji jako.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3525-0
+00:32:25.673 --> 00:32:27.433
+<v Aleksander Smywiński-Pohl>Jest interpretowalne, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3533-0
+00:32:28.193 --> 00:32:31.513
+<v Aleksander Smywiński-Pohl>Łatwe i jakby dominowało.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3537-0
+00:32:33.283 --> 00:32:33.603
+<v Aleksander Smywiński-Pohl>15.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3542-0
+00:32:37.373 --> 00:32:38.573
+<v Aleksander Smywiński-Pohl>Ma on też swoje problemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3548-0
+00:32:39.713 --> 00:32:41.273
+<v Aleksander Smywiński-Pohl>Mniejszym z tych problemów, które?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3556-0
+00:32:42.423 --> 00:32:46.023
+<v Aleksander Smywiński-Pohl>Najpierw w przypadku tego rodzaju
+podejścia jest po prostu olbrzymia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3568-0
+00:32:47.063 --> 00:32:50.703
+<v Aleksander Smywiński-Pohl>Olbrzymi rozmiar słownika,
+który byłby potrzebny do tego, żeby.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3571-0
+00:32:51.293 --> 00:32:52.373
+<v Aleksander Smywiński-Pohl>Tego rodzaju.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3577-0
+00:32:53.373 --> 00:32:56.293
+<v Aleksander Smywiński-Pohl>Yy sytuację obsłużyć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3588-0
+00:32:57.963 --> 00:33:01.563
+<v Aleksander Smywiński-Pohl>Jak nie byłby duży ten ten te słońce
+zaraz sobie popatrzymy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3606-0
+00:33:03.213 --> 00:33:11.373
+<v Aleksander Smywiński-Pohl>Ponadto w takim ciu zawsze mieli o opałki
+o fałdki aut glary out of abulary of.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3622-0
+00:33:12.493 --> 00:33:18.596
+<v Aleksander Smywiński-Pohl>Tak to się w skrócie nazywa.
+A czym jest o o VOOV proszę państwa jest</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3622-1
+00:33:18.596 --> 00:33:20.253
+<v Aleksander Smywiński-Pohl>sytuacją, w której?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3631-0
+00:33:21.773 --> 00:33:24.813
+<v Aleksander Smywiński-Pohl>Ten izoluje i nagle okazuje się, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3638-0
+00:33:25.653 --> 00:33:28.213
+<v Aleksander Smywiński-Pohl>Terenu nigdy wcześniej nie widzieliśmy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3650-0
+00:33:31.933 --> 00:33:35.333
+<v Aleksander Smywiński-Pohl>No i to jest tak zwany właśnie
+autokebulary nie ma go w naszym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3662-0
+00:33:39.473 --> 00:33:44.033
+<v Aleksander Smywiński-Pohl>Morfologiczne języki silnie się flex jak
+polski, no to w ogóle.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3666-0
+00:33:45.583 --> 00:33:47.263
+<v Aleksander Smywiński-Pohl>To dlatego, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3673-0
+00:33:48.613 --> 00:33:52.013
+<v Aleksander Smywiński-Pohl>Wyrazy, które mają wspólne będą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3677-0
+00:33:53.413 --> 00:33:55.293
+<v Aleksander Smywiński-Pohl>To nie różne to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3691-0
+00:33:57.133 --> 00:34:02.751
+<v Aleksander Smywiński-Pohl>Nie mogą one miesiące form do dla
+pojedynczego le matu, znaczy to jest,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3691-1
+00:34:02.751 --> 00:34:03.453
+<v Aleksander Smywiński-Pohl>nie wiem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3694-0
+00:34:04.253 --> 00:34:04.893
+<v Aleksander Smywiński-Pohl>Dziękuję to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3702-0
+00:34:05.613 --> 00:34:07.613
+<v Aleksander Smywiński-Pohl>Ogólnie rzecz biorąc tych tych różnych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3715-0
+00:34:09.133 --> 00:34:13.373
+<v Aleksander Smywiński-Pohl>Do 1000 form to troszkę tak pewnego
+rodzaju nadużycia. Chodzi mi o to, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3721-0
+00:34:14.903 --> 00:34:15.983
+<v Aleksander Smywiński-Pohl>Łącznie tych możliwych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3735-0
+00:34:17.093 --> 00:34:21.828
+<v Aleksander Smywiński-Pohl>Wartości pewnych kategorii gramatycznych,
+no to tam dochodzi pod 1000 dla języka</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3735-1
+00:34:21.828 --> 00:34:22.413
+<v Aleksander Smywiński-Pohl>polskiego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3751-0
+00:34:24.383 --> 00:34:29.105
+<v Aleksander Smywiński-Pohl>Więc jeżeli mamy jakiś tam zbiór,
+jakiś mamy tekst i w tym tekście</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3751-1
+00:34:29.105 --> 00:34:30.303
+<v Aleksander Smywiński-Pohl>występują wyrazy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3767-0
+00:34:32.193 --> 00:34:36.533
+<v Aleksander Smywiński-Pohl>To jest bardzo prawdopodobne,
+że że one ogólnie rzecz biorąc,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3767-1
+00:34:36.533 --> 00:34:37.793
+<v Aleksander Smywiński-Pohl>mogą jakby te tak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3773-0
+00:34:39.183 --> 00:34:40.463
+<v Aleksander Smywiński-Pohl>Które tam występują jest bardzo.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3793-0
+00:34:40.853 --> 00:34:44.431
+<v Aleksander Smywiński-Pohl>Bardzo duża i po prostu znaczy bardzo
+często byśmy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3793-1
+00:34:44.431 --> 00:34:48.973
+<v Aleksander Smywiński-Pohl>jeżeli byśmy chcieli zachować mały
+Słownik dla takiego przypadku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3814-0
+00:34:49.253 --> 00:34:54.478
+<v Aleksander Smywiński-Pohl>To będziemy mieli bardzo często o vałki,
+jeżeli chcemy mieć niski współczynnik o o</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3814-1
+00:34:54.478 --> 00:34:56.493
+<v Aleksander Smywiński-Pohl>vec, to musimy mieć bardzo duży.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3819-0
+00:34:57.813 --> 00:34:58.693
+<v Aleksander Smywiński-Pohl>Bardzo duży Słowik.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3822-0
+00:35:00.353 --> 00:35:00.993
+<v Aleksander Smywiński-Pohl>Jak duży?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3831-0
+00:35:02.053 --> 00:35:05.493
+<v Aleksander Smywiński-Pohl>Tutaj mam informację,
+weźmy sobie wikipedię.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3839-0
+00:35:06.533 --> 00:35:09.973
+<v Aleksander Smywiński-Pohl>150 milionów znaków jakiś tam sample?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3846-0
+00:35:11.293 --> 00:35:13.053
+<v Aleksander Smywiński-Pohl>Na przykład to są wolne lektury, sorry.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3856-0
+00:35:16.293 --> 00:35:19.893
+<v Aleksander Smywiński-Pohl>Mamy tokenów tekstowych,
+no tutaj pozostała polityczna, 1000.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3874-0
+00:35:21.013 --> 00:35:25.897
+<v Aleksander Smywiński-Pohl>Jakiś tam jakimś podejściem czy po
+spacjach czy czy jakoś inteligentni to</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3874-1
+00:35:25.897 --> 00:35:27.613
+<v Aleksander Smywiński-Pohl>kwestia nie jest to ważne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3876-0
+00:35:28.893 --> 00:35:29.533
+<v Aleksander Smywiński-Pohl>I teraz.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3901-0
+00:35:30.293 --> 00:35:35.180
+<v Aleksander Smywiński-Pohl>Ile mamy w takim tekście,
+który ma 151 milionów znaków?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3901-1
+00:35:35.180 --> 00:35:40.853
+<v Aleksander Smywiński-Pohl>Ile ma unikalny, unikalnych tokenów?
+No proszę państwa, no dużo?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3904-0
+00:35:41.733 --> 00:35:42.253
+<v Aleksander Smywiński-Pohl>Dużo.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3911-0
+00:35:44.063 --> 00:35:46.383
+<v Aleksander Smywiński-Pohl>Prawie 650000 różnych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3915-0
+00:35:48.023 --> 00:35:51.263
+<v Aleksander Smywiński-Pohl>Mamy też się dzieje, potrzebujemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3923-0
+00:35:52.913 --> 00:35:55.633
+<v Aleksander Smywiński-Pohl>Tym kolejnym etapem po tym,
+jak styko tekst jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3945-0
+00:35:57.423 --> 00:36:04.943
+<v Aleksander Smywiński-Pohl>Tych tokenów na miesz wartość na wartości
+chyba najczęściej, no na przepisy 12204.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3952-0
+00:36:08.733 --> 00:36:11.613
+<v Aleksander Smywiński-Pohl>Dla każdej każdy ci w tym słowniku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3958-0
+00:36:12.613 --> 00:36:14.573
+<v Aleksander Smywiński-Pohl>My musimy mieć osobny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3971-0
+00:36:16.703 --> 00:36:23.143
+<v Aleksander Smywiński-Pohl>A co za tym idzie mamy po prostu macierz
+650000 x 15.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3984-0
+00:36:23.973 --> 00:36:29.429
+<v Aleksander Smywiński-Pohl>Na jeszcze rozmiar tej składowej
+pojedynczej i tutaj najczęściej się</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3984-1
+00:36:29.429 --> 00:36:30.773
+<v Aleksander Smywiński-Pohl>będzie stosowało.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/3995-0
+00:36:35.223 --> 00:36:40.543
+<v Aleksander Smywiński-Pohl>Czyli była precyzja FP 16,
+tak mi się powiedzieli, slotting point x.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4010-0
+00:36:42.183 --> 00:36:46.545
+<v Aleksander Smywiński-Pohl>Moglibyśmy to zrobić full prestiż,
+no wtedy oczywiście to rośnie 2 rady,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4010-1
+00:36:46.545 --> 00:36:46.903
+<v Aleksander Smywiński-Pohl>czyli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4018-0
+00:36:48.133 --> 00:36:51.653
+<v Aleksander Smywiński-Pohl>Tak takim przy takim słowniku jakbyśmy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4027-0
+00:36:53.773 --> 00:36:57.413
+<v Aleksander Smywiński-Pohl>Gość budować to po prostu no sorry, ale.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4029-0
+00:36:58.213 --> 00:36:58.613
+<v Aleksander Smywiński-Pohl>Damy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4036-0
+00:37:00.463 --> 00:37:02.103
+<v Aleksander Smywiński-Pohl>Tego tej warstwy, która ma pój na.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4039-0
+00:37:03.533 --> 00:37:04.453
+<v Aleksander Smywiński-Pohl>Na wyrazy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4079-0
+00:37:08.453 --> 00:37:11.280
+<v Aleksander Smywiński-Pohl>Złożyliśmy to 1,
+5 gibia przy połówkowej precyzyjnej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4079-1
+00:37:11.280 --> 00:37:14.108
+<v Aleksander Smywiński-Pohl>No to jest bardzo,
+bardzo dużo w gruncie rzeczy jakby</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4079-2
+00:37:14.108 --> 00:37:18.140
+<v Aleksander Smywiński-Pohl>myślimy o tym, jak byśmy chcieli,
+żeby były rozmiary, znaczy zależy jakiego,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4079-3
+00:37:18.140 --> 00:37:20.653
+<v Aleksander Smywiński-Pohl>dla jakiego dla jakiego modelu jeżeli
+model ma.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4091-0
+00:37:22.053 --> 00:37:26.013
+<v Aleksander Smywiński-Pohl>Bilion parametrów no to może to nie jest
+jakiś taki duży problem?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4099-0
+00:37:29.453 --> 00:37:32.173
+<v Aleksander Smywiński-Pohl>Miliardów parametrów no to to jest 15%,
+prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4107-0
+00:37:33.743 --> 00:37:35.863
+<v Aleksander Smywiński-Pohl>Rozmiar, więc to wtedy zaczyna istotnej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4123-0
+00:37:42.003 --> 00:37:47.058
+<v Aleksander Smywiński-Pohl>Drugie druga skrajna rozwiązanie.
+Drugie rozwiązanie to jest po prostu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4123-1
+00:37:47.058 --> 00:37:49.763
+<v Aleksander Smywiński-Pohl>użycie, czy to, czy to, czy to bajtów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4125-0
+00:37:51.893 --> 00:37:51.973
+<v Aleksander Smywiński-Pohl>Yy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4129-0
+00:37:53.373 --> 00:37:54.733
+<v Aleksander Smywiński-Pohl>Bowiem zbiór.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4135-0
+00:37:56.013 --> 00:37:58.253
+<v Aleksander Smywiński-Pohl>Wszystkich różnych znaków.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4144-0
+00:37:59.853 --> 00:38:04.453
+<v Aleksander Smywiński-Pohl>W jakimś języku niewielki, 34.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4152-0
+00:38:06.593 --> 00:38:09.873
+<v Aleksander Smywiński-Pohl>Co jest znacząco mniejsze od tego zbioru
+wszystkich?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4160-0
+00:38:11.393 --> 00:38:13.615
+<v Aleksander Smywiński-Pohl>Tak sinu,
+czyli takiego zbiory się w pełni nie da</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4160-1
+00:38:13.615 --> 00:38:14.193
+<v Aleksander Smywiński-Pohl>skonstruować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4167-0
+00:38:17.903 --> 00:38:20.983
+<v Aleksander Smywiński-Pohl>Ale trzeba mieć coś wiadomo, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4177-0
+00:38:22.733 --> 00:38:26.053
+<v Aleksander Smywiński-Pohl>To nie jest proste,
+też użycie po prostu użyjmy znaków.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4194-0
+00:38:27.253 --> 00:38:32.311
+<v Aleksander Smywiński-Pohl>Bo unika od wersji tam siedemnastej,
+teraz już nie tam wersja jakaś dwudziesta,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4194-1
+00:38:32.311 --> 00:38:33.133
+<v Aleksander Smywiński-Pohl>która się ba.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4199-0
+00:38:35.813 --> 00:38:37.293
+<v Aleksander Smywiński-Pohl>Łącznie czuje.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4201-0
+00:38:38.293 --> 00:38:38.973
+<v Aleksander Smywiński-Pohl>300.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4204-0
+00:38:40.663 --> 00:38:41.103
+<v Aleksander Smywiński-Pohl>Znaków.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4215-0
+00:38:42.893 --> 00:38:46.405
+<v Aleksander Smywiński-Pohl>300 różnie.
+Tak więc jeżeli byśmy chcieli wszystkie</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4215-1
+00:38:46.405 --> 00:38:47.013
+<v Aleksander Smywiński-Pohl>te znaki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4219-0
+00:38:48.573 --> 00:38:50.013
+<v Aleksander Smywiński-Pohl>Żebym nic nas nie zaskoczyło?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4238-0
+00:38:50.773 --> 00:38:53.885
+<v Aleksander Smywiński-Pohl>Proszę państwa, musielibyśmy Słownik,
+który macie składowe,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4238-1
+00:38:53.885 --> 00:38:57.153
+<v Aleksander Smywiński-Pohl>to jest też raczej niepraktyczne,
+dlatego no dzisiaj częściej,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4238-2
+00:38:57.153 --> 00:38:58.813
+<v Aleksander Smywiński-Pohl>no robi się oczywiście prunning.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4257-0
+00:39:00.423 --> 00:39:04.347
+<v Aleksander Smywiński-Pohl>Liczy się jak często poszczególne.
+Nie wiem moti tam występują w tych</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4257-1
+00:39:04.347 --> 00:39:07.543
+<v Aleksander Smywiński-Pohl>tekstach i w ten sposób się wprowadza te
+te do słownika.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4271-0
+00:39:14.693 --> 00:39:18.813
+<v Aleksander Smywiński-Pohl>Bowiem oczywiście inaczej inaczej byśmy
+byśmy tutaj znowu dom ujęty byłby był.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4274-0
+00:39:20.703 --> 00:39:21.463
+<v Aleksander Smywiński-Pohl>Za duży narzut.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4283-0
+00:39:22.453 --> 00:39:25.093
+<v Aleksander Smywiński-Pohl>Związany ze zjawiskiem,
+które są po prostu bardzo rzadkie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4298-0
+00:39:28.873 --> 00:39:34.553
+<v Aleksander Smywiński-Pohl>Swego rodzaju zalety, prawda?
+Mamy bardzo mały mamy wszystkie nie mamy</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4298-1
+00:39:34.553 --> 00:39:35.193
+<v Aleksander Smywiński-Pohl>o fałek.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4310-0
+00:39:37.553 --> 00:39:43.513
+<v Aleksander Smywiński-Pohl>Działa dla każdego języka,
+uwzględnia literówki słowa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4312-0
+00:39:44.973 --> 00:39:45.373
+<v Aleksander Smywiński-Pohl>Tekst.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4320-0
+00:39:46.733 --> 00:39:48.813
+<v Aleksander Smywiński-Pohl>Kod źródłowego bez żadnego dodatku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4323-0
+00:39:50.683 --> 00:39:51.443
+<v Aleksander Smywiński-Pohl>Że tak powiem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4327-0
+00:39:53.023 --> 00:39:54.023
+<v Aleksander Smywiński-Pohl>Furacji ale.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4335-0
+00:39:54.933 --> 00:39:57.693
+<v Aleksander Smywiński-Pohl>To jest taki jeden model, by te 5.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4341-0
+00:39:59.223 --> 00:40:02.423
+<v Aleksander Smywiński-Pohl>Na znakach, ale ma też to swoje.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4350-0
+00:40:05.303 --> 00:40:08.943
+<v Aleksander Smywiński-Pohl>Bardzo długie sekwencje mamy.
+Już mówiłem o tej o tym aspekcie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4375-0
+00:40:10.463 --> 00:40:14.520
+<v Aleksander Smywiński-Pohl>Ekonomicznym token izolacji.
+Rzeczywiście z punktu widzenia ekonomii</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4375-1
+00:40:14.520 --> 00:40:17.107
+<v Aleksander Smywiński-Pohl>chcemy,
+żeby sekwencje były jak najkrótsze,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4375-2
+00:40:17.107 --> 00:40:20.223
+<v Aleksander Smywiński-Pohl>a tutaj no Hello,
+to mamy 5 tokenów zamiast jednego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4389-0
+00:40:23.163 --> 00:40:26.152
+<v Aleksander Smywiński-Pohl>Więcej jak mam takie pojedyncze litery to
+sobie nie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4389-1
+00:40:26.152 --> 00:40:28.183
+<v Aleksander Smywiński-Pohl>No za bardzo jakiś specjalny treści.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4397-0
+00:40:29.153 --> 00:40:31.313
+<v Aleksander Smywiński-Pohl>Połączone razem tworzą coś, ale.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4400-0
+00:40:32.493 --> 00:40:33.373
+<v Aleksander Smywiński-Pohl>Wiele osobno.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4412-0
+00:40:35.993 --> 00:40:39.033
+<v Aleksander Smywiński-Pohl>Musimy poprzez małe z atencji zbudować
+taką reprezentację.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4422-0
+00:40:39.893 --> 00:40:42.333
+<v Aleksander Smywiński-Pohl>No i oczywiście czasami to się uda.
+Czasami to się nie uda.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4434-0
+00:40:47.643 --> 00:40:52.763
+<v Aleksander Smywiński-Pohl>I mamy dużą sekwencję tym ten koszt po
+prostu bardzo szybko nam się.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4446-0
+00:40:54.923 --> 00:40:57.893
+<v Aleksander Smywiński-Pohl>Zwiększa tym bardziej,
+że ta złożoność obliczeniowa tego</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4446-1
+00:40:57.893 --> 00:40:58.883
+<v Aleksander Smywiński-Pohl>naiwnego algorytmu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4455-0
+00:41:02.853 --> 00:41:06.253
+<v Aleksander Smywiński-Pohl>A ten film jest,
+jest czy ona jest po prostu kwadratowa?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4463-0
+00:41:07.093 --> 00:41:09.253
+<v Aleksander Smywiński-Pohl>Ale możemy tam zoptymalizować dostęp do
+pamięci.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4467-0
+00:41:12.553 --> 00:41:13.713
+<v Aleksander Smywiński-Pohl>Więc to jest troszeczkę?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4472-0
+00:41:14.893 --> 00:41:16.293
+<v Aleksander Smywiński-Pohl>Zbyt hardkorowe podejście.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4475-0
+00:41:18.503 --> 00:41:19.383
+<v Aleksander Smywiński-Pohl>Podejście.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4484-0
+00:41:20.413 --> 00:41:23.053
+<v Aleksander Smywiński-Pohl>Trochę lepsze, czyli po prostu m gramy,
+gramy to są.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4504-0
+00:41:25.143 --> 00:41:32.141
+<v Aleksander Smywiński-Pohl>Ciągi liter, wygodne wyrazu o długości n,
+czyli tutaj mamy przykładowo transformer</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4504-1
+00:41:32.141 --> 00:41:33.743
+<v Aleksander Smywiński-Pohl>i mamy te big ramy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4514-0
+00:41:46.933 --> 00:41:48.653
+<v Aleksander Smywiński-Pohl>Czy to gdzieś ma zastosowanie? A no ma.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4516-0
+00:41:51.313 --> 00:41:51.793
+<v Aleksander Smywiński-Pohl>Otóż.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4519-0
+00:41:54.093 --> 00:41:54.933
+<v Aleksander Smywiński-Pohl>I ekipa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4530-0
+00:41:57.043 --> 00:42:01.663
+<v Aleksander Smywiński-Pohl>I mylić z ekipą friza przeprowadził pewne
+eksperymenty.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4539-0
+00:42:02.573 --> 00:42:05.893
+<v Aleksander Smywiński-Pohl>Gdzie pokazał,
+że jak się doda takie engramy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4554-0
+00:42:07.013 --> 00:42:11.253
+<v Aleksander Smywiński-Pohl>Do prymitywnego algorytmu modyfikacji,
+który naprawdę no super, super prosty.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4560-0
+00:42:12.693 --> 00:42:14.933
+<v Aleksander Smywiński-Pohl>No to możemy uzyskać bardzo fajny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4566-0
+00:42:16.603 --> 00:42:17.603
+<v Aleksander Smywiński-Pohl>Bardzo fajną poprawę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4576-0
+00:42:18.853 --> 00:42:21.773
+<v Aleksander Smywiński-Pohl>Podejście,
+w którym były brane całe wyrazy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4582-0
+00:42:24.053 --> 00:42:25.693
+<v Aleksander Smywiński-Pohl>Sis g to było podejście, w którym były.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4585-0
+00:42:27.543 --> 00:42:28.143
+<v Aleksander Smywiński-Pohl>N gramy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4609-0
+00:42:36.013 --> 00:42:42.564
+<v Aleksander Smywiński-Pohl>Informacją o pozycji i sik sisk minus to
+było to samo tylko bez bez tej pozycji,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4609-1
+00:42:42.564 --> 00:42:47.093
+<v Aleksander Smywiński-Pohl>więc widzimy ta czerwona kreska,
+ona wyraźnie wyraźnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4622-0
+00:42:47.363 --> 00:42:52.523
+<v Aleksander Smywiński-Pohl>Nie góruje nad tymi pozostałymi kreskami
+i to oznacza, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4638-0
+00:42:53.993 --> 00:42:58.627
+<v Aleksander Smywiński-Pohl>Taki model jest znacznie lepszy,
+znacznie lepszy niż model w tym wypadku</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4638-1
+00:42:58.627 --> 00:42:59.833
+<v Aleksander Smywiński-Pohl>niż model oparty o.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4641-0
+00:43:00.633 --> 00:43:01.553
+<v Aleksander Smywiński-Pohl>Całe słowa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4650-0
+00:43:02.113 --> 00:43:04.913
+<v Aleksander Smywiński-Pohl>Do czego do klasyfikacji treść.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4661-0
+00:43:05.633 --> 00:43:08.607
+<v Aleksander Smywiński-Pohl>Na przykład stwierdzenia,
+że mamy do czynienia z treścią w języku</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4661-1
+00:43:08.607 --> 00:43:09.193
+<v Aleksander Smywiński-Pohl>portugalskim.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4688-0
+00:43:11.313 --> 00:43:15.024
+<v Aleksander Smywiński-Pohl>No i proszę państwa,
+to co nadeszło te i dominuje cały czas,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4688-1
+00:43:15.024 --> 00:43:18.674
+<v Aleksander Smywiński-Pohl>ale nie Jestem pewien,
+czy będzie do końca świata jej jeden</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4688-2
+00:43:18.674 --> 00:43:20.073
+<v Aleksander Smywiński-Pohl>dzień dłużej dominować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4689-0
+00:43:20.513 --> 00:43:20.953
+<v Aleksander Smywiński-Pohl>Przejdź.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4696-0
+00:43:22.113 --> 00:43:23.873
+<v Aleksander Smywiński-Pohl>Jest no to jest support.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4698-0
+00:43:25.843 --> 00:43:26.003
+<v Aleksander Smywiński-Pohl>Czyli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4700-0
+00:43:26.433 --> 00:43:26.633
+<v Aleksander Smywiński-Pohl>Weź.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4712-0
+00:43:28.563 --> 00:43:32.203
+<v Aleksander Smywiński-Pohl>My bogace słownictwo,
+ale jednocześnie o ograniczonym rozmiarze.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4723-0
+00:43:33.933 --> 00:43:38.293
+<v Aleksander Smywiński-Pohl>No i no oczywiście tutaj algorytmicznie
+tak algorytmicznie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4736-0
+00:43:39.673 --> 00:43:44.513
+<v Aleksander Smywiński-Pohl>Co to znaczy, że my nie,
+nie próbujemy konstruować temu tego?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4739-0
+00:43:45.393 --> 00:43:46.193
+<v Aleksander Smywiński-Pohl>Tego słowika.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4744-0
+00:43:48.233 --> 00:43:49.633
+<v Aleksander Smywiński-Pohl>Tylko bierzemy po prostu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4751-0
+00:43:51.433 --> 00:43:53.193
+<v Aleksander Smywiński-Pohl>Który sam konstruuje nam ten?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4756-0
+00:43:54.753 --> 00:43:55.913
+<v Aleksander Smywiński-Pohl>Słownik support.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4760-0
+00:44:08.003 --> 00:44:09.083
+<v Aleksander Smywiński-Pohl>Tutaj mam właśnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4765-0
+00:44:11.153 --> 00:44:12.353
+<v Aleksander Smywiński-Pohl>Jakiś przykładowy tekst.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4772-0
+00:44:19.053 --> 00:44:21.413
+<v Aleksander Smywiński-Pohl>Bóg nam odniesienia jest to b.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4792-0
+00:44:25.043 --> 00:44:32.062
+<v Aleksander Smywiński-Pohl>Rozmiar 1000.
+Długość tego to jest wzrasta około jeden</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4792-1
+00:44:32.062 --> 00:44:35.763
+<v Aleksander Smywiński-Pohl>do 0,3 w stosunku do wyrazów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4801-0
+00:44:37.073 --> 00:44:40.153
+<v Aleksander Smywiński-Pohl>I jakieś zachowujemy częściowo znaczenie?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4811-0
+00:44:41.713 --> 00:44:45.793
+<v Aleksander Smywiński-Pohl>Należy byśmy przyszli do bardzo mocno
+rośnie, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4818-0
+00:44:46.713 --> 00:44:48.953
+<v Aleksander Smywiński-Pohl>Rozmiar tego słownika widzimy,
+że tutaj jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4822-0
+00:44:49.753 --> 00:44:51.033
+<v Aleksander Smywiński-Pohl>Długość jest nie za długa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4834-0
+00:44:52.073 --> 00:44:57.473
+<v Aleksander Smywiński-Pohl>Jakby zwiększona wielkość Górnika jest
+ograniczone, mamy coś bardzo fajnego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4854-0
+00:45:13.353 --> 00:45:18.370
+<v Aleksander Smywiński-Pohl>To sobie może puścimy,
+no i proszę państwa takim takim bardzo</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4854-1
+00:45:18.370 --> 00:45:20.393
+<v Aleksander Smywiński-Pohl>ważnym algorytmem, który.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4863-0
+00:45:22.633 --> 00:45:26.473
+<v Aleksander Smywiński-Pohl>Jest cały czas stosowany jest b pding.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4871-0
+00:45:28.243 --> 00:45:31.603
+<v Aleksander Smywiński-Pohl>I że można powiedzieć,
+że to jest najbardziej istotny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4875-0
+00:45:32.593 --> 00:45:33.953
+<v Aleksander Smywiński-Pohl>Atenizacja aktualnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4898-0
+00:45:37.103 --> 00:45:40.108
+<v Aleksander Smywiński-Pohl>Dlaczego możemy od tego budujemy?
+Po prostu Słownik,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4898-1
+00:45:40.108 --> 00:45:43.341
+<v Aleksander Smywiński-Pohl>który zawiera wszystkie litery,
+które chcemy obsługiwać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4898-2
+00:45:43.341 --> 00:45:46.743
+<v Aleksander Smywiński-Pohl>Oczywiście to nie będzie te tam nie wiem.
+200000 z unicode.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4912-0
+00:45:48.513 --> 00:45:52.793
+<v Aleksander Smywiński-Pohl>To jakieś 100 200,
+może 1000 1000 liter na startem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4940-0
+00:45:54.873 --> 00:46:00.400
+<v Aleksander Smywiński-Pohl>Obliczamy,
+jak często występują określone pary liter</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4940-1
+00:46:00.400 --> 00:46:06.553
+<v Aleksander Smywiński-Pohl>koło siebie i banalną rzecz
+zrobimyłączymy ze sobą litery,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4940-2
+00:46:06.553 --> 00:46:09.473
+<v Aleksander Smywiński-Pohl>które występują najczęściej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4944-0
+00:46:11.233 --> 00:46:12.353
+<v Aleksander Smywiński-Pohl>Nowy symbol.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4969-0
+00:46:13.433 --> 00:46:17.790
+<v Aleksander Smywiński-Pohl>Oj ten proces taki gdzie oczywiście w tej
+kolejnej iteracji to już nie jest tak,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4969-1
+00:46:17.790 --> 00:46:21.717
+<v Aleksander Smywiński-Pohl>że tylko i wyłącznie opieramy.
+Możemy też litery łączyć z tymi większymi</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4969-2
+00:46:21.717 --> 00:46:22.793
+<v Aleksander Smywiński-Pohl>fragmentami, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4990-0
+00:46:27.713 --> 00:46:32.311
+<v Aleksander Smywiński-Pohl>Możemy to aż zostaniemy,
+uzyskamy po prostu oczekiwaną oczekiwany</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4990-1
+00:46:32.311 --> 00:46:35.446
+<v Aleksander Smywiński-Pohl>słownika.
+Oczywiście są jaki tu jest haczyk,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4990-2
+00:46:35.446 --> 00:46:36.073
+<v Aleksander Smywiński-Pohl>czy ktoś?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/4992-0
+00:46:39.803 --> 00:46:40.483
+<v Aleksander Smywiński-Pohl>W tym algorytmie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5008-0
+00:46:44.733 --> 00:46:49.886
+<v Aleksander Smywiński-Pohl>W trasie obudzić ja już zasnąłem 3 razy,
+a państwo może jeszcze mają szansę użyć</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5008-1
+00:46:49.886 --> 00:46:51.413
+<v Aleksander Smywiński-Pohl>uruchomić czarę komórki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5016-0
+00:46:55.103 --> 00:46:56.903
+<v Aleksander Smywiński-Pohl>Jaki jest haczyk w tym algorytmie?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5030-0
+00:46:57.913 --> 00:47:01.033
+<v Aleksander Smywiński-Pohl>Albo zapytałem od czego zależy to,
+co się znajdzie w słowniku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5036-0
+00:47:07.773 --> 00:47:09.533
+<v Jan Iłowski>Od danych treningowych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5057-0
+00:47:11.683 --> 00:47:15.717
+<v Aleksander Smywiński-Pohl>Od danych trening oczywiście od tego
+drugim punkcie,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5057-1
+00:47:15.717 --> 00:47:19.523
+<v Aleksander Smywiński-Pohl>prawda count of addrescent charakter,
+frank jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5077-0
+00:47:20.953 --> 00:47:26.104
+<v Aleksander Smywiński-Pohl>Jak sobie zrobimy dziadowski zbiór danych,
+na którym trenuje bp,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5077-1
+00:47:26.104 --> 00:47:29.433
+<v Aleksander Smywiński-Pohl>no to będziemy mieli dziadowskie te dosko.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5092-0
+00:47:32.633 --> 00:47:35.966
+<v Aleksander Smywiński-Pohl>Przykład, możemy chcieć?
+Nie wiem pisać kod,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5092-1
+00:47:35.966 --> 00:47:40.633
+<v Aleksander Smywiński-Pohl>a danych do treningu token izera w ogóle
+nie damy próbek kodu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5098-0
+00:47:41.713 --> 00:47:42.753
+<v Aleksander Smywiński-Pohl>No i to będzie po prostu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5117-0
+00:47:44.513 --> 00:47:51.028
+<v Aleksander Smywiński-Pohl>Źle dostosowane, więc tutaj niebie,
+ale bardzo ważne jest to jak dobierzemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5117-1
+00:47:51.028 --> 00:47:53.313
+<v Aleksander Smywiński-Pohl>Skąd weźmiemy te częstości.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5122-0
+00:47:58.253 --> 00:47:59.373
+<v Aleksander Smywiński-Pohl>I proszę państwa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5130-0
+00:48:07.193 --> 00:48:09.833
+<v Aleksander Smywiński-Pohl>Za metrowanie jest po prostu bardzo
+prosta.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5153-0
+00:48:10.913 --> 00:48:18.309
+<v Aleksander Smywiński-Pohl>Meczu jemy a i b wtedy kiedy dla XY dla
+wszystkich tych możliwych par dostajemy</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5153-1
+00:48:18.309 --> 00:48:19.233
+<v Aleksander Smywiński-Pohl>na tańszą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5158-0
+00:48:23.293 --> 00:48:25.493
+<v Aleksander Smywiński-Pohl>Jak coś występy pary?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5162-0
+00:48:34.903 --> 00:48:36.303
+<v Aleksander Smywiński-Pohl>No i tutaj po prostu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5169-0
+00:48:37.963 --> 00:48:39.643
+<v Aleksander Smywiński-Pohl>Możemy na to spojrzeć z perspektywy?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5184-0
+00:48:41.833 --> 00:48:45.713
+<v Aleksander Smywiński-Pohl>Gdzie oczywiście kompresja to jest
+oryginalna długość do długości po.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5201-0
+00:48:49.443 --> 00:48:55.549
+<v Aleksander Smywiński-Pohl>Po skompresowaniu no i oczywiście jakby
+widzimy jakby jeden pobiera kilka kilka</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5201-1
+00:48:55.549 --> 00:48:56.083
+<v Aleksander Smywiński-Pohl>znaków.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5211-0
+00:49:05.113 --> 00:49:11.233
+<v Aleksander Smywiński-Pohl>Zacznę od słownika,
+liczymy często my w pętli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5240-0
+00:49:12.943 --> 00:49:18.165
+<v Aleksander Smywiński-Pohl>Ponownie jakby kolejnym kroku ponownie
+przeliczamy, bo widzimy tutaj,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5240-1
+00:49:18.165 --> 00:49:23.983
+<v Aleksander Smywiński-Pohl>że mamy prawda. Nową pozycję LW, prawda?
+Tego wcześniej nie było mnie o w ER.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5266-0
+00:49:24.473 --> 00:49:27.553
+<v Aleksander Smywiński-Pohl>Raz mamy LO przecinek w prawda to jest
+nowy element,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5266-1
+00:49:27.553 --> 00:49:31.157
+<v Aleksander Smywiński-Pohl>ponieważ policji to połączyć LIO to
+pojawia się nowy element,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5266-2
+00:49:31.157 --> 00:49:34.353
+<v Aleksander Smywiński-Pohl>który musimy przeliczyć w tym naszym
+korpusie, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5269-0
+00:49:34.833 --> 00:49:35.513
+<v Aleksander Smywiński-Pohl>Ile razy?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5274-0
+00:49:37.403 --> 00:49:38.403
+<v Aleksander Smywiński-Pohl>On występuje, no i tam.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5277-0
+00:49:42.833 --> 00:49:43.313
+<v Aleksander Smywiński-Pohl>Świetnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5281-0
+00:49:45.083 --> 00:49:46.923
+<v Aleksander Smywiński-Pohl>Tutaj mamy te.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5285-0
+00:49:54.063 --> 00:49:56.023
+<v Aleksander Smywiński-Pohl>Tablice sami.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5311-0
+00:49:59.173 --> 00:50:06.097
+<v Aleksander Smywiński-Pohl>I pieszy pierwsze połączenie to jest LO
+lo i tutaj w tym naszym tekście po prostu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5311-1
+00:50:06.097 --> 00:50:09.813
+<v Aleksander Smywiński-Pohl>podmieniamy te siebie LO zamieniamy na
+lot.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5324-0
+00:50:10.043 --> 00:50:15.202
+<v Aleksander Smywiński-Pohl>No i proces jakby liczenia przecież to
+trzeba zrobić jakoś efektywnie, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5324-1
+00:50:15.202 --> 00:50:16.443
+<v Aleksander Smywiński-Pohl>Kolejne połączenie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5335-0
+00:50:18.813 --> 00:50:22.773
+<v Aleksander Smywiński-Pohl>Low no i znowu w tym tekście widzimy 2
+razy znowu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5348-0
+00:50:23.803 --> 00:50:28.363
+<v Aleksander Smywiński-Pohl>Aktualizują nam się tablice częstości i
+tutaj mamy to pokazane.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5366-0
+00:50:31.393 --> 00:50:36.286
+<v Aleksander Smywiński-Pohl>W formie takiego pseudo kodu czyli tych
+połączeń to będzie rozmiar docelowy</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5366-1
+00:50:36.286 --> 00:50:38.153
+<v Aleksander Smywiński-Pohl>słownika, który chcemy odjąć.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5375-0
+00:50:39.083 --> 00:50:42.243
+<v Aleksander Smywiński-Pohl>I początkowy rozmiar słownika,
+czyli te pojedyncze literki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5377-0
+00:50:43.283 --> 00:50:43.603
+<v Aleksander Smywiński-Pohl>I.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5389-0
+00:50:44.483 --> 00:50:51.003
+<v Aleksander Smywiński-Pohl>I kierujemy tyle razy jeden,
+a pozostało tych złączeń bierzemy pary.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5396-0
+00:50:51.763 --> 00:50:52.923
+<v Aleksander Smywiński-Pohl>Na podstawie statystyk.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5402-0
+00:50:54.943 --> 00:50:57.023
+<v Aleksander Smywiński-Pohl>Jeżeli już nie ma bardzo do do.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5404-0
+00:50:58.613 --> 00:50:59.173
+<v Aleksander Smywiński-Pohl>Walczymy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5407-0
+00:51:01.353 --> 00:51:03.153
+<v Aleksander Smywiński-Pohl>Najlepszą parę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5419-0
+00:51:05.683 --> 00:51:08.963
+<v Aleksander Smywiński-Pohl>Meridzie my ją dodajemy ją do słownika i.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5422-0
+00:51:11.643 --> 00:51:12.723
+<v Aleksander Smywiński-Pohl>Do tych meczów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5436-0
+00:51:19.443 --> 00:51:24.723
+<v Aleksander Smywiński-Pohl>A potem aplikujemy w ramach inferencji
+aplikujemy tą wyuczoną.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5444-0
+00:51:29.853 --> 00:51:32.933
+<v Aleksander Smywiński-Pohl>Poprzez nowy złączeń.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5449-0
+00:51:33.633 --> 00:51:35.553
+<v Aleksander Smywiński-Pohl>My powtarzamy ten proces w gruncie rzeczy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5473-0
+00:51:39.273 --> 00:51:42.234
+<v Aleksander Smywiński-Pohl>Mer gowania wątki elementów to jest znane
+prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5473-1
+00:51:42.234 --> 00:51:46.616
+<v Aleksander Smywiński-Pohl>W tym słowniku mamy te wszystkie
+informacje, co z czym zostało połączone,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5473-2
+00:51:46.616 --> 00:51:48.393
+<v Aleksander Smywiński-Pohl>więc my możemy to samo zrobić.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5476-0
+00:51:49.373 --> 00:51:50.173
+<v Aleksander Smywiński-Pohl>W tekście.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5484-0
+00:51:51.713 --> 00:51:53.873
+<v Aleksander Smywiński-Pohl>Rozbijamy go najpierw na znaki i bierzemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5486-0
+00:51:55.313 --> 00:51:56.313
+<v Aleksander Smywiński-Pohl>Częsty.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5491-0
+00:51:59.433 --> 00:52:01.713
+<v Aleksander Smywiński-Pohl>Cel studencki je parę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5510-0
+00:52:02.913 --> 00:52:07.399
+<v Aleksander Smywiński-Pohl>I po prostu w tym ze sobą i tak robimy
+dalej dalej dalej dalej aż prawda już nic</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5510-1
+00:52:07.399 --> 00:52:08.673
+<v Aleksander Smywiński-Pohl>nie będzie do połączeń.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5540-0
+00:52:19.003 --> 00:52:24.637
+<v Aleksander Smywiński-Pohl>Praktyce można bardzo prezentację przytyć
+do tego algorytmu,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5540-1
+00:52:24.637 --> 00:52:31.563
+<v Aleksander Smywiński-Pohl>znaczy ten format wymiany może być bardzo
+prosty. Po prostu bierzemy plik.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5542-0
+00:52:32.593 --> 00:52:34.153
+<v Aleksander Smywiński-Pohl>To wy nim.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5549-0
+00:52:35.393 --> 00:52:37.673
+<v Aleksander Smywiński-Pohl>Spacer, który do oddzielenia od siebie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5568-0
+00:52:38.593 --> 00:52:43.461
+<v Aleksander Smywiński-Pohl>Tych elementów,
+ale samą spację też może reprezentować to</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5568-1
+00:52:43.461 --> 00:52:47.993
+<v Aleksander Smywiński-Pohl>właśnie co państwo to widzą określenie
+takie grubsze.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5590-0
+00:52:48.753 --> 00:52:52.262
+<v Aleksander Smywiński-Pohl>To po prostu reprezentant spacji,
+czyli żeby spacja nam nie brudziła,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5590-1
+00:52:52.262 --> 00:52:56.273
+<v Aleksander Smywiński-Pohl>bo ona jest wykorzystywana tutaj do tego,
+żeby oddzielać od siebie te elementy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5595-0
+00:52:57.423 --> 00:52:59.063
+<v Aleksander Smywiński-Pohl>No to spacje.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5602-0
+00:52:59.913 --> 00:53:01.553
+<v Aleksander Smywiński-Pohl>Następujemy tym podkreśleniem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5629-0
+00:53:04.673 --> 00:53:09.847
+<v Aleksander Smywiński-Pohl>Co prawda powiedziała gdzieś tam
+wcześniej racja jest często danym</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5629-1
+00:53:09.847 --> 00:53:13.400
+<v Aleksander Smywiński-Pohl>procesem,
+ale nie ma obowiązku pretogenizacji</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5629-2
+00:53:13.400 --> 00:53:14.713
+<v Aleksander Smywiński-Pohl>możemy po prostu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5673-0
+00:53:16.433 --> 00:53:22.452
+<v Aleksander Smywiński-Pohl>Wystąpić spację tymi specjalnymi po to,
+żeby uprościć ten proces i tylko dlatego</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5673-1
+00:53:22.452 --> 00:53:27.207
+<v Aleksander Smywiński-Pohl>i traktować spację każdy inny znak i też
+po prostu ten algebra.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5673-2
+00:53:27.207 --> 00:53:31.889
+<v Aleksander Smywiński-Pohl>On bez bez to działa,
+no bo on po prostu opiera się na prostej</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5673-3
+00:53:31.889 --> 00:53:35.233
+<v Aleksander Smywiński-Pohl>statystyce,
+nie musimy wprowadzać tej wiedzy</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5673-4
+00:53:35.233 --> 00:53:36.793
+<v Aleksander Smywiński-Pohl>dodatkowej o tym, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5695-0
+00:53:37.993 --> 00:53:41.804
+<v Aleksander Smywiński-Pohl>Normalnie słowa są oddzielone sytuacjami,
+to jest zbędne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5695-1
+00:53:41.804 --> 00:53:46.273
+<v Aleksander Smywiński-Pohl>dlatego on może wtedy oczywiście robić
+takie to będą tokeny, które.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5705-0
+00:53:47.073 --> 00:53:50.233
+<v Aleksander Smywiński-Pohl>Które będą po prostu składały się ze
+zlepków?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5725-0
+00:53:51.723 --> 00:53:55.678
+<v Aleksander Smywiński-Pohl>Ze zlepków jakiś wyrazów,
+ale widocznie jeżeli tak jest na przykład</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5725-1
+00:53:55.678 --> 00:53:58.469
+<v Aleksander Smywiński-Pohl>New York,
+no to czemu nie miałby reprezentowany</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5725-2
+00:53:58.469 --> 00:53:59.923
+<v Aleksander Smywiński-Pohl>jako jeden token, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5730-0
+00:54:01.423 --> 00:54:02.703
+<v Aleksander Smywiński-Pohl>Jest to ok jak najbardziej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5741-0
+00:54:06.793 --> 00:54:09.622
+<v Aleksander Smywiński-Pohl>Moglibyśmy tutaj,
+proszę państwa powiedzieć, no dobra,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5741-1
+00:54:09.622 --> 00:54:10.393
+<v Aleksander Smywiński-Pohl>jest jakiś tam.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5755-0
+00:54:12.243 --> 00:54:15.593
+<v Aleksander Smywiński-Pohl>Informatycy wymyślili algorytm,
+ale Dlaczego nie mielibyśmy zastosować</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5755-1
+00:54:15.593 --> 00:54:15.923
+<v Aleksander Smywiński-Pohl>czegoś?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5771-0
+00:54:17.193 --> 00:54:25.073
+<v Aleksander Smywiński-Pohl>Prawda znanego ugruntowanego dobrze
+zbadanego mamy wyraz jakieś w języku</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5771-1
+00:54:25.073 --> 00:54:26.153
+<v Aleksander Smywiński-Pohl>lekcyjnym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5781-0
+00:54:27.353 --> 00:54:30.953
+<v Aleksander Smywiński-Pohl>To po prostu podzielmy go na na sufix.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5789-0
+00:54:33.213 --> 00:54:37.093
+<v Aleksander Smywiński-Pohl>Sufit niesie informacje o dramatycznym, o.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5791-0
+00:54:37.873 --> 00:54:38.593
+<v Aleksander Smywiński-Pohl>Czasie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5805-0
+00:54:43.873 --> 00:54:49.673
+<v Aleksander Smywiński-Pohl>Tenże stałem ten ten ten ten rdzeń niesie
+informacje o semantyce i w ten sposób.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5811-0
+00:54:51.453 --> 00:54:53.893
+<v Aleksander Smywiński-Pohl>Mamy oddzielone elementy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5832-0
+00:54:56.863 --> 00:55:00.347
+<v Aleksander Smywiński-Pohl>Problem polega na tym,
+że potrzebujemy analizatora</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5832-1
+00:55:00.347 --> 00:55:05.470
+<v Aleksander Smywiński-Pohl>morfologicznego dla każdego języka,
+który chcielibyśmy przetwarzać prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5832-2
+00:55:05.470 --> 00:55:05.743
+<v Aleksander Smywiński-Pohl>A b.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5854-0
+00:55:08.593 --> 00:55:12.788
+<v Aleksander Smywiński-Pohl>Nie potrzebuje żadnej wiedzy mistrza i po
+prostu leci z tym tekstem jakieś chińskie</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5854-1
+00:55:12.788 --> 00:55:15.685
+<v Aleksander Smywiński-Pohl>znaczki w tym tekście i one często koło
+siebie występują,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5854-2
+00:55:15.685 --> 00:55:17.033
+<v Aleksander Smywiński-Pohl>to on je po prostu połączy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5867-0
+00:55:17.873 --> 00:55:21.773
+<v Aleksander Smywiński-Pohl>Nie będzie to jest chiński, czy to jest,
+czy on wie coś na temat chińskiego po</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5867-1
+00:55:21.773 --> 00:55:22.513
+<v Aleksander Smywiński-Pohl>prostu połączy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5871-0
+00:55:23.233 --> 00:55:23.993
+<v Aleksander Smywiński-Pohl>I będziemy mieli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5881-0
+00:55:25.843 --> 00:55:27.883
+<v Aleksander Smywiński-Pohl>I to jest zdecydowanie pozytywna cena.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5884-0
+00:55:29.793 --> 00:55:30.433
+<v Aleksander Smywiński-Pohl>Algorytmu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5892-0
+00:55:34.803 --> 00:55:38.723
+<v Aleksander Smywiński-Pohl>No to jest liczba unikalnych słów długość.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5896-0
+00:55:40.913 --> 00:55:42.313
+<v Aleksander Smywiński-Pohl>Długość, długość słowa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5904-0
+00:55:59.223 --> 00:56:01.403
+<v Aleksander Smywiński-Pohl>I co ten nasz pytaj?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5920-0
+00:56:04.563 --> 00:56:10.603
+<v Aleksander Smywiński-Pohl>Opie proszę państwa ten wykres pokazał,
+że dla takich wariantów jak j. 90 k.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5927-0
+00:56:11.073 --> 00:56:14.953
+<v Aleksander Smywiński-Pohl>Ten, który nas interesuje nawet bardzo.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5929-0
+00:56:16.523 --> 00:56:17.123
+<v Aleksander Smywiński-Pohl>Rzadka, czyli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5937-0
+00:56:19.123 --> 00:56:21.443
+<v Aleksander Smywiński-Pohl>Tak, czyli jakiś wyraz pojawia się tam.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5944-0
+00:56:24.313 --> 00:56:26.113
+<v Aleksander Smywiński-Pohl>Tej tej tabeli częstości występują.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5947-0
+00:56:26.793 --> 00:56:27.873
+<v Aleksander Smywiński-Pohl>A mimo wszystko.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5952-0
+00:56:30.873 --> 00:56:32.233
+<v Aleksander Smywiński-Pohl>O wysokie prawdopodobieństwo.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5955-0
+00:56:35.543 --> 00:56:36.303
+<v Aleksander Smywiński-Pohl>Reprezentacja.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5963-0
+00:56:51.483 --> 00:56:55.563
+<v Aleksander Smywiński-Pohl>Więc też tutaj pewnego rodzaju.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5971-0
+00:56:56.353 --> 00:56:59.553
+<v Aleksander Smywiński-Pohl>Można powiedzieć to to, że najczęściej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/5983-0
+00:57:01.053 --> 00:57:07.653
+<v Aleksander Smywiński-Pohl>Słownik więcej gdzieś tam w okolicach od
+50 do 210 elementów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6008-0
+00:57:12.943 --> 00:57:15.981
+<v Aleksander Smywiński-Pohl>I to co jest jakby w nim wspaniałego,
+to to,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6008-1
+00:57:15.981 --> 00:57:21.045
+<v Aleksander Smywiński-Pohl>że on jest w stanie właśnie ten ten
+algorytm dobrze radzić sobie z tym tak</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6008-2
+00:57:21.045 --> 00:57:22.463
+<v Aleksander Smywiński-Pohl>zwanym długo ciężkim.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6013-0
+00:57:23.993 --> 00:57:25.193
+<v Aleksander Smywiński-Pohl>Tych zjawisk językowych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6019-0
+00:57:28.833 --> 00:57:30.593
+<v Aleksander Smywiński-Pohl>To jest to, co stanowi jego sile.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6028-0
+00:57:41.763 --> 00:57:45.323
+<v Aleksander Smywiński-Pohl>No jeszcze mamy inne inne podejścia jak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6030-0
+00:57:46.843 --> 00:57:47.043
+<v Aleksander Smywiński-Pohl>Model.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6034-0
+00:57:48.553 --> 00:57:49.593
+<v Aleksander Smywiński-Pohl>Z babilistycznym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6054-0
+00:57:52.643 --> 00:57:57.629
+<v Aleksander Smywiński-Pohl>Usuwaniem, bo tutaj mamy taką zestawienie,
+gdzie coś używane,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6054-1
+00:57:57.629 --> 00:58:00.363
+<v Aleksander Smywiński-Pohl>no bp jest używane chociażby w gt.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6056-0
+00:58:01.433 --> 00:58:02.313
+<v Aleksander Smywiński-Pohl>World pis.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6058-0
+00:58:03.153 --> 00:58:03.393
+<v Aleksander Smywiński-Pohl>Jak?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6061-0
+00:58:05.923 --> 00:58:06.403
+<v Aleksander Smywiński-Pohl>Agh.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6063-0
+00:58:08.133 --> 00:58:08.453
+<v Aleksander Smywiński-Pohl>Google.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6069-0
+00:58:11.913 --> 00:58:13.793
+<v Aleksander Smywiński-Pohl>Wykorzystywany z.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6083-0
+00:58:16.983 --> 00:58:21.960
+<v Aleksander Smywiński-Pohl>I bam w Legii to z kolei te 5 x celne to
+jest parę takich modeli,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6083-1
+00:58:21.960 --> 00:58:23.543
+<v Aleksander Smywiński-Pohl>którego wykorzystują.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6089-0
+00:58:24.793 --> 00:58:27.193
+<v Aleksander Smywiński-Pohl>Może na tym się nie będę jakoś specjalnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6112-0
+00:58:29.193 --> 00:58:34.626
+<v Aleksander Smywiński-Pohl>Rozwodził i teraz wspomniałem o tym
+właśnie, że jest ten pis.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6112-1
+00:58:34.626 --> 00:58:38.833
+<v Aleksander Smywiński-Pohl>No to miejsce jest bardzo duże do do do
+do BPE.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6130-0
+00:58:43.533 --> 00:58:46.849
+<v Aleksander Smywiński-Pohl>Tylko,
+że no po prostu używamy innej innej</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6130-1
+00:58:46.849 --> 00:58:49.933
+<v Aleksander Smywiński-Pohl>statystyki do tego, żeby ustalić, które.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6134-0
+00:58:52.443 --> 00:58:54.323
+<v Aleksander Smywiński-Pohl>Elementy mają zostać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6149-0
+00:58:56.473 --> 00:59:01.233
+<v Aleksander Smywiński-Pohl>O ile BPE łączy ze sobą najczęściej
+występujące pary?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6159-0
+00:59:04.803 --> 00:59:09.323
+<v Aleksander Smywiński-Pohl>O tyle World wiąże ze sobą łączne,
+ze które.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6184-0
+00:59:10.393 --> 00:59:17.569
+<v Aleksander Smywiński-Pohl>Występują współstępują niż by to wynik
+takiego wkładu prawdopodobieństwa, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6184-1
+00:59:17.569 --> 00:59:21.770
+<v Aleksander Smywiński-Pohl>No bo to frekwencji,
+które tutaj państwo widzą,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6184-2
+00:59:21.770 --> 00:59:23.433
+<v Aleksander Smywiński-Pohl>prawda information?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6195-0
+00:59:25.473 --> 00:59:30.153
+<v Aleksander Smywiński-Pohl>Bierzemy niezależnie od siebie
+prawdopodobieństwo każdego ze zdarzeń.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6207-0
+00:59:32.963 --> 00:59:36.635
+<v Aleksander Smywiński-Pohl>Tez mianowniku i bierzemy
+prawdopodobieństwo współwystąpienia</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6207-1
+00:59:36.635 --> 00:59:37.523
+<v Aleksander Smywiński-Pohl>tychże zdarzeń.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6230-0
+00:59:39.013 --> 00:59:43.019
+<v Aleksander Smywiński-Pohl>I teraz, jeżeli one są leżne,
+no to to będzie bliski Jedynki,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6230-1
+00:59:43.019 --> 00:59:47.219
+<v Aleksander Smywiński-Pohl>ale są od siebie zależne,
+to to będzie dużo powyższej wyższe niż</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6230-2
+00:59:47.219 --> 00:59:48.253
+<v Aleksander Smywiński-Pohl>jedynka, prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6239-0
+00:59:48.593 --> 00:59:50.953
+<v Aleksander Smywiński-Pohl>No bo taka jest definicja zdarzenia
+zależnego czyli.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6252-0
+00:59:55.513 --> 01:00:02.513
+<v Aleksander Smywiński-Pohl>No po prostu w sensie jeżeli zdarzenia są
+niezależne, to po prostu ich współczynne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6258-0
+01:00:03.593 --> 01:00:05.513
+<v Aleksander Smywiński-Pohl>Podobieństw indywidualnych, tak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6260-0
+01:00:06.473 --> 01:00:07.593
+<v Aleksander Smywiński-Pohl>Więc.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6276-0
+01:00:09.153 --> 01:00:14.182
+<v Aleksander Smywiński-Pohl>Jeżeli nie wychodzi nam to jest wyższe,
+to znaczy, że one nie są niezależne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6276-1
+01:00:14.182 --> 01:00:15.553
+<v Aleksander Smywiński-Pohl>no i to jest właśnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6281-0
+01:00:16.673 --> 01:00:18.433
+<v Aleksander Smywiński-Pohl>Podstawa algorytmu word pis.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6285-0
+01:00:23.853 --> 01:00:25.693
+<v Aleksander Smywiński-Pohl>Z kolei unii.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6288-0
+01:00:27.683 --> 01:00:28.003
+<v Aleksander Smywiński-Pohl>Stara się.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6291-0
+01:00:31.203 --> 01:00:32.163
+<v Aleksander Smywiński-Pohl>Za modelować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6295-0
+01:00:34.643 --> 01:00:36.123
+<v Aleksander Smywiński-Pohl>Jako niezależny od siebie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6297-0
+01:00:37.633 --> 01:00:37.753
+<v Aleksander Smywiński-Pohl>Yy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6314-0
+01:00:39.953 --> 01:00:42.851
+<v Aleksander Smywiński-Pohl>Prawdopodobieństwa tokenów.
+On jest oczywiście tak postawie,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6314-1
+01:00:42.851 --> 01:00:45.701
+<v Aleksander Smywiński-Pohl>jak się go tak postawi,
+to on jest nierozwiązywalny problem</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6314-2
+01:00:45.701 --> 01:00:46.033
+<v Aleksander Smywiński-Pohl>polega.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6325-0
+01:00:47.353 --> 01:00:51.472
+<v Aleksander Smywiński-Pohl>Prawda,
+musielibyśmy wszystkie możliwe podziały</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6325-1
+01:00:51.472 --> 01:00:52.073
+<v Aleksander Smywiński-Pohl>tekstu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6334-0
+01:00:53.483 --> 01:00:55.283
+<v Aleksander Smywiński-Pohl>To jest niemożliwe,
+to jest jest ich tak dużo.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6353-0
+01:00:56.753 --> 01:00:59.881
+<v Aleksander Smywiński-Pohl>Że po prostu nigdy za agent by się nie
+skończył,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6353-1
+01:00:59.881 --> 01:01:03.393
+<v Aleksander Smywiński-Pohl>więc to tutaj stosujemy expectation
+algorytm algorytm.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6356-0
+01:01:06.593 --> 01:01:07.553
+<v Aleksander Smywiński-Pohl>Znajdujemy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6371-0
+01:01:09.773 --> 01:01:15.093
+<v Aleksander Smywiński-Pohl>Najbardziej prawdopodobne przy założeniu
+danej segmentacji, którą mamy aktualnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6372-0
+01:01:17.843 --> 01:01:17.923
+<v Aleksander Smywiński-Pohl>Yy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6401-0
+01:01:18.563 --> 01:01:23.006
+<v Aleksander Smywiński-Pohl>Bierzemy po prostu najbardziej
+prawdopodobną segmentacji dla każdego</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6401-1
+01:01:23.006 --> 01:01:27.385
+<v Aleksander Smywiński-Pohl>słowa i na podstawie tejże aktualizujemy
+prawdopodobieństwa tychże,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6401-2
+01:01:27.385 --> 01:01:30.283
+<v Aleksander Smywiński-Pohl>bo tam nam się będą występować i
+występować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6403-0
+01:01:33.163 --> 01:01:33.563
+<v Aleksander Smywiński-Pohl>I.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6411-0
+01:01:34.633 --> 01:01:38.033
+<v Aleksander Smywiński-Pohl>Mamy, czyli wywal te tokeny mniej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6414-0
+01:01:38.873 --> 01:01:39.873
+<v Aleksander Smywiński-Pohl>Wpływają na.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6421-0
+01:01:40.713 --> 01:01:43.113
+<v Aleksander Smywiński-Pohl>O nasze prawdopodobieństwo tego całego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6441-0
+01:01:51.643 --> 01:01:54.385
+<v Aleksander Smywiński-Pohl>Z nowym jorkiem i tam mamy różne problemy,
+dotacje,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6441-1
+01:01:54.385 --> 01:01:58.603
+<v Aleksander Smywiński-Pohl>które nam wyszły w trakcie treningu,
+no i wychodzi nam to, że właśnie New York.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6448-0
+01:01:59.433 --> 01:02:02.153
+<v Aleksander Smywiński-Pohl>To jest najlepsza segmentacja używając.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6477-0
+01:02:05.283 --> 01:02:10.567
+<v Aleksander Smywiński-Pohl>Ale to co jest jakby ważną różnicą modelu
+uni gramowego jest to,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6477-1
+01:02:10.567 --> 01:02:16.990
+<v Aleksander Smywiński-Pohl>że proponować wiele różnych momencie dla
+tego samego tekstu tam nie ma jednego</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6477-2
+01:02:16.990 --> 01:02:17.803
+<v Aleksander Smywiński-Pohl>mistyczny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6495-0
+01:02:21.043 --> 01:02:24.851
+<v Aleksander Smywiński-Pohl>I dlaczego to jest przydatne?
+A no jest to dlatego przydatne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6495-1
+01:02:24.851 --> 01:02:27.123
+<v Aleksander Smywiński-Pohl>że działa jako pewnego rodzaju forma.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6498-0
+01:02:28.843 --> 01:02:29.763
+<v Aleksander Smywiński-Pohl>Cji procesu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6510-0
+01:02:31.563 --> 01:02:35.323
+<v Aleksander Smywiński-Pohl>Bo o ile w BP deterministyczny
+determinizm?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6515-0
+01:02:36.433 --> 01:02:38.513
+<v Aleksander Smywiński-Pohl>Dział na tokeny, no to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6533-0
+01:02:40.043 --> 01:02:44.002
+<v Aleksander Smywiński-Pohl>Widzi 2 razy ten sam przykład.
+Ona będzie dokładnie tak samo twarzy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6533-1
+01:02:44.002 --> 01:02:45.723
+<v Aleksander Smywiński-Pohl>oczywiście do tego, żeby wagi.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6535-0
+01:02:46.353 --> 01:02:46.673
+<v Aleksander Smywiński-Pohl>Prawda?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6540-0
+01:02:47.753 --> 01:02:50.353
+<v Aleksander Smywiński-Pohl>A czyli użyje model?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6544-0
+01:02:53.793 --> 01:02:54.873
+<v Aleksander Smywiński-Pohl>To proszę państwa.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6549-0
+01:02:56.393 --> 01:02:58.313
+<v Aleksander Smywiński-Pohl>Procesu token i z racji.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6555-0
+01:02:59.113 --> 01:03:01.953
+<v Aleksander Smywiński-Pohl>I ta to, że te importy się będą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6579-0
+01:03:02.873 --> 01:03:06.250
+<v Aleksander Smywiński-Pohl>Przynieść więc ten model dostaje
+dodatkowość jakby u u.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6579-1
+01:03:06.250 --> 01:03:10.713
+<v Aleksander Smywiński-Pohl>Niezależnie od tej konkrety prezentacją
+jest, staje bardziej uniwersalny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6586-0
+01:03:14.943 --> 01:03:17.223
+<v Aleksander Smywiński-Pohl>Mm i to sentence pis to jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6618-0
+01:03:21.343 --> 01:03:26.616
+<v Aleksander Smywiński-Pohl>Ma pewne pan takie ulepszenia pierwsze
+nie ma potrzeby tej pretekst.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6618-1
+01:03:26.616 --> 01:03:30.895
+<v Aleksander Smywiński-Pohl>To już mówiłem,
+że spacja jest traktowane kodowane jako</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6618-2
+01:03:30.895 --> 01:03:32.423
+<v Aleksander Smywiński-Pohl>specjalny taki znak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6623-0
+01:03:35.003 --> 01:03:36.643
+<v Aleksander Smywiński-Pohl>Ale i w konsekwencji możemy ją.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6643-0
+01:03:40.923 --> 01:03:44.644
+<v Aleksander Smywiński-Pohl>No możemy ją umieszczać w tych token. Ach,
+co więcej,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6643-1
+01:03:44.644 --> 01:03:49.123
+<v Aleksander Smywiński-Pohl>to też jest bardzo fajną jest to,
+że jest całkowicie odwracalny.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6651-0
+01:03:51.913 --> 01:03:55.433
+<v Aleksander Smywiński-Pohl>Że możemy bez problemu oryginalny tekst?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6658-0
+01:03:57.023 --> 01:03:58.863
+<v Aleksander Smywiński-Pohl>A jeżeli byśmy zrobili preto się?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6673-0
+01:04:00.603 --> 01:04:05.192
+<v Aleksander Smywiński-Pohl>Powtarzające ze sobą spację,
+prawda płaszcz one zostają zastąpione</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6673-1
+01:04:05.192 --> 01:04:05.603
+<v Aleksander Smywiński-Pohl>jedną.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6684-0
+01:04:09.323 --> 01:04:12.237
+<v Aleksander Smywiński-Pohl>I to jest bardziej w ten pis.
+To jest w zasadzie nie tyle może algorytm</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6684-1
+01:04:12.237 --> 01:04:12.723
+<v Aleksander Smywiński-Pohl>co bardziej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6686-0
+01:04:14.783 --> 01:04:15.263
+<v Aleksander Smywiński-Pohl>Do.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6691-0
+01:04:16.843 --> 01:04:18.243
+<v Aleksander Smywiński-Pohl>Właśnie token izolowanie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6692-0
+01:04:19.473 --> 01:04:19.793
+<v Aleksander Smywiński-Pohl>Mm.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6699-0
+01:04:23.033 --> 01:04:24.473
+<v Aleksander Smywiński-Pohl>Tu mamy takie zestawienie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6702-0
+01:04:26.313 --> 01:04:27.193
+<v Aleksander Smywiński-Pohl>Przy proces.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6711-0
+01:04:30.073 --> 01:04:33.513
+<v Aleksander Smywiński-Pohl>Na podstawie czego jest wybierana
+wybierane jest to zmarnowanie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6716-0
+01:04:38.243 --> 01:04:39.403
+<v Aleksander Smywiński-Pohl>No i gdzie jest wykorzystywany?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6726-0
+01:04:41.113 --> 01:04:43.833
+<v Aleksander Smywiński-Pohl>To jest doszliśmy.
+Proszę państwa do tej ciekawostki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6732-0
+01:04:45.513 --> 01:04:47.233
+<v Aleksander Smywiński-Pohl>Z roku 2025.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6737-0
+01:04:49.743 --> 01:04:52.303
+<v Aleksander Smywiński-Pohl>Kto to polega na tym?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6743-0
+01:04:53.593 --> 01:04:56.993
+<v Aleksander Smywiński-Pohl>Że mamy o dodatkowy model?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6749-0
+01:05:00.673 --> 01:05:03.473
+<v Aleksander Smywiński-Pohl>Który decyduje,
+gdzie kończy się tak zwany.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6758-0
+01:05:06.133 --> 01:05:09.893
+<v Aleksander Smywiński-Pohl>Na wejściu mamy bajty mamy model,
+który patrzy na te bajty.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6765-0
+01:05:13.333 --> 01:05:15.213
+<v Aleksander Smywiński-Pohl>Moim zdaniem tutaj trzeba wstawić.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6781-0
+01:05:17.433 --> 01:05:21.800
+<v Aleksander Smywiński-Pohl>Przerwać on patrzy też na to,
+co będzie później, jakby to jest ważne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6781-1
+01:05:21.800 --> 01:05:22.673
+<v Aleksander Smywiński-Pohl>że on jest on.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6797-0
+01:05:23.713 --> 01:05:27.455
+<v Aleksander Smywiński-Pohl>Patrzę na tokeny, które w sensie na bajek,
+które są po tym miejscu cięcia,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6797-1
+01:05:27.455 --> 01:05:28.153
+<v Aleksander Smywiński-Pohl>że tak powiem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6804-0
+01:05:42.503 --> 01:05:43.743
+<v Aleksander Smywiński-Pohl>No i tutaj mamy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6807-0
+01:05:47.553 --> 01:05:48.273
+<v Aleksander Smywiński-Pohl>Składową.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6818-0
+01:05:53.133 --> 01:05:56.373
+<v Aleksander Smywiński-Pohl>Szukamy przykładową token izolacji,
+która tam właśnie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6826-0
+01:06:00.343 --> 01:06:02.903
+<v Aleksander Smywiński-Pohl>Opiera się na mls m.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6839-0
+01:06:03.833 --> 01:06:07.713
+<v Aleksander Smywiński-Pohl>I ten model mlsk m służy do decydowania
+gdzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6844-0
+01:06:08.833 --> 01:06:10.913
+<v Aleksander Smywiński-Pohl>W tekście należy wstawić to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6847-0
+01:06:12.553 --> 01:06:13.393
+<v Aleksander Smywiński-Pohl>To granice.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6859-0
+01:06:14.233 --> 01:06:19.701
+<v Aleksander Smywiński-Pohl>Tak jak powiedziałem, to jest,
+nie ma tutaj takiego jasnego, twardej,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6859-1
+01:06:19.701 --> 01:06:20.873
+<v Aleksander Smywiński-Pohl>twardej reguły.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6874-0
+01:06:21.713 --> 01:06:26.064
+<v Aleksander Smywiński-Pohl>Czyli ten dodatkowy model po prostu on
+się uczy jednej prostej rzeczy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6874-1
+01:06:26.064 --> 01:06:27.473
+<v Aleksander Smywiński-Pohl>gdzie kończą się token.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6879-0
+01:06:28.993 --> 01:06:30.833
+<v Aleksander Smywiński-Pohl>Ustawiać do dalszych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6887-0
+01:06:32.603 --> 01:06:35.903
+<v Aleksander Smywiński-Pohl>Sieci neuronowej,
+żeby uzyskiwać uzyskać jak najlepsze</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6887-1
+01:06:35.903 --> 01:06:36.323
+<v Aleksander Smywiński-Pohl>wyniki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6893-0
+01:06:43.653 --> 01:06:46.133
+<v Aleksander Smywiński-Pohl>I w przypadku tutaj.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6908-0
+01:06:48.803 --> 01:06:52.356
+<v Aleksander Smywiński-Pohl>2 2 sytuacje,
+bo jeżeli mówimy o przetwarzaniu importu,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6908-1
+01:06:52.356 --> 01:06:54.323
+<v Aleksander Smywiński-Pohl>to to wtedy ten band predictor.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6913-0
+01:06:55.433 --> 01:06:57.593
+<v Aleksander Smywiński-Pohl>Decyduje gdzie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6923-0
+01:06:58.973 --> 01:07:02.453
+<v Aleksander Smywiński-Pohl>Wstawić to przy ciebie w trakcie?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6926-0
+01:07:03.713 --> 01:07:04.553
+<v Aleksander Smywiński-Pohl>Generowania.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6931-0
+01:07:07.183 --> 01:07:09.143
+<v Aleksander Smywiński-Pohl>Następny bajt oraz.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6934-0
+01:07:13.323 --> 01:07:14.643
+<v Aleksander Smywiński-Pohl>Granica tego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6939-0
+01:07:17.873 --> 01:07:19.153
+<v Aleksander Smywiński-Pohl>No i ten model.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6951-0
+01:07:20.723 --> 01:07:23.963
+<v Aleksander Smywiński-Pohl>Przetwarza krótsze sekwencje tych tych
+tychże paczki.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6963-0
+01:07:27.503 --> 01:07:31.423
+<v Aleksander Smywiński-Pohl>Tutaj mamy fragment jakiś przykładowy
+kodu, jak można po prostu.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6968-0
+01:07:32.473 --> 01:07:33.793
+<v Aleksander Smywiński-Pohl>Jeżeli mamy token izer.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6980-0
+01:07:40.053 --> 01:07:44.293
+<v Aleksander Smywiński-Pohl>No to jak wytrenować na tym,
+że no jest to banalne w gruncie rzeczy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/6986-0
+01:07:47.183 --> 01:07:48.503
+<v Aleksander Smywiński-Pohl>Tak, jeszcze już kończąc ten.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7000-0
+01:07:50.043 --> 01:07:52.582
+<v Aleksander Smywiński-Pohl>Proszę państwa,
+no to jest tutaj tak naprawdę,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7000-1
+01:07:52.582 --> 01:07:55.283
+<v Aleksander Smywiński-Pohl>że wszystko jest ogarnięte,
+sporo takich różnych.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7004-0
+01:07:56.473 --> 01:07:57.673
+<v Aleksander Smywiński-Pohl>Tekst wielojęzycznym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7008-0
+01:07:58.593 --> 01:07:59.953
+<v Aleksander Smywiński-Pohl>Tekst, który.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7021-0
+01:08:00.873 --> 01:08:04.393
+<v Aleksander Smywiński-Pohl>Jest specyficzny dla domeny social media,
+mamy emotikony mamy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7022-0
+01:08:05.513 --> 01:08:05.673
+<v Aleksander Smywiński-Pohl>Tak.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7043-0
+01:08:07.433 --> 01:08:11.095
+<v Aleksander Smywiński-Pohl>No i prawda,
+kwestia tego auto są bezpieczne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7043-1
+01:08:11.095 --> 01:08:15.473
+<v Aleksander Smywiński-Pohl>pewne problemy jak powiedziałem,
+weźmiemy powiemy o k.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7044-0
+01:08:15.753 --> 01:08:15.873
+<v Aleksander Smywiński-Pohl>Hej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7054-0
+01:08:16.673 --> 01:08:19.433
+<v Aleksander Smywiński-Pohl>Weźmy wszystkie litery,
+które są w każdym alfabecie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7060-0
+01:08:20.753 --> 01:08:23.193
+<v Aleksander Smywiński-Pohl>No to niestety będziemy mieli też nadal.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7068-0
+01:08:24.553 --> 01:08:27.873
+<v Aleksander Smywiński-Pohl>Słownik,
+więc to nie ja taka prosta kwestia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7086-0
+01:08:29.523 --> 01:08:34.345
+<v Aleksander Smywiński-Pohl>No i też na co zwarto zwrócić uwagę,
+że język językowi będzie nierówny?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7086-1
+01:08:34.345 --> 01:08:35.483
+<v Aleksander Smywiński-Pohl>W tym sensie, że.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7103-0
+01:08:37.833 --> 01:08:41.266
+<v Aleksander Smywiński-Pohl>Instytucja podmiot,
+który trenuje te te te modele językowe,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7103-1
+01:08:41.266 --> 01:08:42.753
+<v Aleksander Smywiński-Pohl>on będzie miał jakiś miks.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7110-0
+01:08:44.693 --> 01:08:48.933
+<v Aleksander Smywiński-Pohl>Tekstów, które również treningu to.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7121-0
+01:08:51.483 --> 01:08:55.683
+<v Aleksander Smywiński-Pohl>No jeżeli ten skrót jest inny niż
+łaciński to no niestety.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7127-0
+01:08:57.283 --> 01:08:58.643
+<v Aleksander Smywiński-Pohl>Będzie to działało w gorzej najczęściej.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7135-0
+01:09:00.153 --> 01:09:03.553
+<v Aleksander Smywiński-Pohl>No będzie znaczy na pewno najczęściej
+droższe.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7144-0
+01:09:05.573 --> 01:09:09.323
+<v Aleksander Smywiński-Pohl>No tutaj jakiś kwestii związane z kodem z
+la pechem.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7163-0
+01:09:10.073 --> 01:09:13.427
+<v Aleksander Smywiński-Pohl>To już wiem,
+że jakby to jest rozwiązany w pewnym</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7163-1
+01:09:13.427 --> 01:09:16.513
+<v Aleksander Smywiński-Pohl>sensie tak te te te te modele dzisiejsze
+one.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7198-0
+01:09:18.573 --> 01:09:23.821
+<v Aleksander Smywiński-Pohl>Nie z tego typu problemami,
+dlaczego został w stanie i generować są w</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7198-1
+01:09:23.821 --> 01:09:28.020
+<v Aleksander Smywiński-Pohl>stanie generować dowody,
+znajdować rozwiązania problemy</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7198-2
+01:09:28.020 --> 01:09:31.919
+<v Aleksander Smywiński-Pohl>tematycznie,
+więc to już ma po prostu odpowiednio w</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7198-3
+01:09:31.919 --> 01:09:33.493
+<v Aleksander Smywiński-Pohl>tych takich liderach.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7200-0
+01:09:35.763 --> 01:09:36.563
+<v Aleksander Smywiński-Pohl>Obsłużone.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7210-0
+01:09:38.913 --> 01:09:41.633
+<v Aleksander Smywiński-Pohl>Jeszcze jest jedna rzecz,
+która jest znowu to w sumie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7213-0
+01:09:42.473 --> 01:09:44.673
+<v Aleksander Smywiński-Pohl>Do okulary.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7220-0
+01:09:47.163 --> 01:09:49.763
+<v Aleksander Smywiński-Pohl>To skończmy ten ten wykład na tym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7243-0
+01:09:51.723 --> 01:09:56.222
+<v Aleksander Smywiński-Pohl>Specjalne tokeny one będą się różniły też
+w zależności od od języka od od modelu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7243-1
+01:09:56.222 --> 01:09:59.443
+<v Aleksander Smywiński-Pohl>będzie będą będzie różny zestaw tych
+specjalnych tokenów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7251-0
+01:10:00.793 --> 01:10:05.873
+<v Aleksander Smywiński-Pohl>Ale nie są pewne pewne akces, to,
+że mamy pewne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7270-0
+01:10:06.913 --> 01:10:11.573
+<v Aleksander Smywiński-Pohl>Sekwencje po prostu znaków,
+które traktowane nie są jako po prostu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7270-1
+01:10:11.573 --> 01:10:14.633
+<v Aleksander Smywiński-Pohl>sekwencja znaków,
+ale jako na przykład cls.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7275-0
+01:10:16.203 --> 01:10:17.163
+<v Aleksander Smywiński-Pohl>Wzięte bodajże z berta.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7281-0
+01:10:18.693 --> 01:10:20.613
+<v Aleksander Smywiński-Pohl>Cele sep mask pad unk.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7288-0
+01:10:22.253 --> 01:10:24.973
+<v Aleksander Smywiński-Pohl>To jest trochę,
+który poszły na każdą sekwencję.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7303-0
+01:10:26.683 --> 01:10:31.643
+<v Aleksander Smywiński-Pohl>Który umieści w zadaniach wymagających od
+równania, na przykład do siebie 2 tekstów.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7325-0
+01:10:32.593 --> 01:10:38.153
+<v Aleksander Smywiński-Pohl>Mask to jest token,
+który jest używany w trakcie tak zwanego</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7325-1
+01:10:38.153 --> 01:10:42.893
+<v Aleksander Smywiński-Pohl>pre treningu,
+a pad to jest bardzo ważne również to</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7325-2
+01:10:42.893 --> 01:10:43.713
+<v Aleksander Smywiński-Pohl>wyrównać.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7362-0
+01:10:44.153 --> 01:10:49.418
+<v Aleksander Smywiński-Pohl>Wyrównać o różnej długości no i umk to
+jest takie bury nie wiemy,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7362-1
+01:10:49.418 --> 01:10:55.401
+<v Aleksander Smywiński-Pohl>cóż to za zastępujemy jakiś ciąg znaków,
+a jeżeli nie jesteśmy w stanie go</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7362-2
+01:10:55.401 --> 01:10:58.273
+<v Aleksander Smywiński-Pohl>reprezentować w tym naszym słowniku.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7373-0
+01:10:59.723 --> 01:11:03.003
+<v Aleksander Smywiński-Pohl>To jest przykład z berta,
+a na przykład z gp t miał.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7384-0
+01:11:04.803 --> 01:11:07.603
+<v Aleksander Smywiński-Pohl>S prawda beginners w sequence np.
+Sequence.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7401-0
+01:11:10.033 --> 01:11:13.694
+<v Aleksander Smywiński-Pohl>No i tego typu to jest ważne,
+proszę państwa, tak już kończąc,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7401-1
+01:11:13.694 --> 01:11:15.553
+<v Aleksander Smywiński-Pohl>bo już nie chcę przedłużać, ale.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7403-0
+01:11:16.313 --> 01:11:17.113
+<v Aleksander Smywiński-Pohl>To jest.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7412-0
+01:11:18.583 --> 01:11:21.303
+<v Aleksander Smywiński-Pohl>Również aktualnie jest to ważne dlaczego?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7417-0
+01:11:22.143 --> 01:11:23.383
+<v Aleksander Smywiński-Pohl>Dlatego, że jeżeli mam na przykład?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7418-0
+01:11:23.813 --> 01:11:23.893
+<v Aleksander Smywiński-Pohl>Yy.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7420-0
+01:11:25.053 --> 01:11:25.693
+<v Aleksander Smywiński-Pohl>Agenta.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7423-0
+01:11:26.373 --> 01:11:27.213
+<v Aleksander Smywiński-Pohl>Który ma?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7430-0
+01:11:29.163 --> 01:11:32.643
+<v Aleksander Smywiński-Pohl>Oczywiście dzisiaj użyć jakiegoś
+narzędzia.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7439-0
+01:11:33.413 --> 01:11:35.333
+<v Aleksander Smywiński-Pohl>To w tym aut płcie z tego modelu?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7456-0
+01:11:36.863 --> 01:11:42.032
+<v Aleksander Smywiński-Pohl>Poczujemy od ciebie, co jest tym,
+co mamy wynikowy, co jest tym,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7456-1
+01:11:42.032 --> 01:11:43.463
+<v Aleksander Smywiński-Pohl>co należy do tego.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7464-0
+01:11:44.053 --> 01:11:47.373
+<v Aleksander Smywiński-Pohl>A co jest instrukcjami dla?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7467-0
+01:11:50.193 --> 01:11:50.873
+<v Aleksander Smywiński-Pohl>Narzędzi.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7478-0
+01:11:52.343 --> 01:11:56.823
+<v Aleksander Smywiński-Pohl>I do tego te specjalne tokeny,
+bo one oddzielają szatkują nam ten.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7481-0
+01:11:57.773 --> 01:11:58.813
+<v Aleksander Smywiński-Pohl>Ten produkt.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7489-0
+01:12:00.463 --> 01:12:04.023
+<v Aleksander Smywiński-Pohl>Tekst wyprodukował pan to jest
+przestępnym.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7511-0
+01:12:05.173 --> 01:12:08.861
+<v Aleksander Smywiński-Pohl>Model na części,
+które są mają jakieś specjalne,</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7511-1
+01:12:08.861 --> 01:12:14.731
+<v Aleksander Smywiński-Pohl>powiedzieliśmy zaznaczenie i jeżeli coś
+jest źle to to się wszystko po prostu</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7511-2
+01:12:14.731 --> 01:12:15.333
+<v Aleksander Smywiński-Pohl>posypie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7515-0
+01:12:16.303 --> 01:12:17.263
+<v Aleksander Smywiński-Pohl>Wszystko posypie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7525-0
+01:12:18.733 --> 01:12:20.933
+<v Aleksander Smywiński-Pohl>Na przykład nie będziemy w stanie.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7534-0
+01:12:22.693 --> 01:12:25.853
+<v Aleksander Smywiński-Pohl>Gdzie był rezoning?
+Jakie narzędzia należy wywołać?</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7547-0
+01:12:26.213 --> 01:12:31.533
+<v Aleksander Smywiński-Pohl>Tak dalej i tak dalej i to możliwe
+realizacji poprzez właśnie te specjalne.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7553-0
+01:12:32.333 --> 01:12:34.213
+<v Aleksander Smywiński-Pohl>Które są po prostu rozpoznawane jako.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7565-0
+01:12:35.643 --> 01:12:38.249
+<v Aleksander Smywiński-Pohl>Takie sekwencje,
+które trzeba po prostu inaczej trafić</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7565-1
+01:12:38.249 --> 01:12:38.723
+<v Aleksander Smywiński-Pohl>traktować.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7568-0
+01:12:41.033 --> 01:12:43.313
+<v Aleksander Smywiński-Pohl>Dziękuję za uwagę.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7576-0
+01:12:44.413 --> 01:12:47.013
+<v Aleksander Smywiński-Pohl>Mam nadzieję, że kolejne wykłady już.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7581-0
+01:12:50.133 --> 01:12:52.493
+<v Aleksander Smywiński-Pohl>Publikacji się odbędą.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7583-0
+01:12:55.773 --> 01:12:56.213
+<v Aleksander Smywiński-Pohl>Za tydzień.</v>
+
+976e14f9-a60c-4a92-b27a-047f5f4fcb24/7594-0
+01:13:01.363 --> 01:13:01.763
+<v Jakub Grześ>Widzenie.</v>

@@ -1,0 +1,75 @@
+# ---------- Dane (pobierane, duże, odtwarzalne) ----------
+# Korpusy SpeakLeash: ~140 MB, w tym plik >100 MB, którego GitHub nie przyjmie
+**/data/speakleash/
+.data/
+*.jsonl
+*.jsonl.zst
+*.zst
+*.parquet
+*.arrow
+
+# ---------- Modele i checkpointy ----------
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+checkpoints/
+outputs/
+runs/
+wandb/
+mlruns/
+lightning_logs/
+
+# Cache Hugging Face
+.cache/
+hf_cache/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Środowiska wirtualne
+.venv/
+venv/
+env/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+
+# ---------- LaTeX (pliki pomocnicze; .tex i .pdf zostają) ----------
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# ---------- Sekrety ----------
+.env
+.env.*
+!.env.example
+
+# ---------- Edytory i system ----------
+.vscode/
+.idea/
+.claude/settings.local.json
+Thumbs.db
+desktop.ini
+.DS_Store

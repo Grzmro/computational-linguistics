@@ -1,0 +1,182 @@
+% !TeX program = xelatex
+% Kompilacja: xelatex lab1_raport.tex
+\documentclass[11pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage[polish]{babel}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\clubpenalty=10000
+\widowpenalty=10000
+\emergencystretch=2em
+\frenchspacing
+
+% znak ▁ z SentencePiece (spacja przed tokenem)
+\newcommand{\spc}{\rule[-0.15ex]{0.45em}{0.1ex}}
+% wyjście tokenizera
+\newcommand{\tokline}[1]{\newline{\small\ttfamily\raggedright #1\par}}
+
+\title{Lab 1: Tokenization Efficiency Benchmark}
+\author{Grzegorz Mróz}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Konfiguracja eksperymentu}
+
+\paragraph{Dane.} WikiText-103 (raw). Tokenizery (whitespace, SentencePiece) i~modele trenowane na pierwszych 450\,000 liniach splitu \texttt{train} (291\,502 niepuste akapity). Ewaluacja na całym splicie \texttt{test} (rozłącznym z~danymi treningowymi): 2\,891 akapitów, 1.28\,MB, 249\,691 słów, 1\,276\,949 znaków. Słowo = ciąg znaków alfanumerycznych lub pojedynczy znak interpunkcyjny (regex \verb!\w+|[^\w\s]!).
+
+\paragraph{Tokenizery.} Wszystkie mają ten sam rozmiar słownika $N = 50\,257$ (rozmiar słownika GPT-2).
+
+\begin{center}\small
+\begin{tabularx}{\textwidth}{@{}lXlr@{}}
+\toprule
+Tokenizer & Opis & Dane treningowe & Czas treningu \\
+\midrule
+GPT-2 & gotowy byte-level BPE z~Hugging Face (\texttt{gpt2}) & WebText & -- \\
+Whitespace & własna implementacja: podział na słowa i~interpunkcję, słownik = \texttt{<UNK>} + 50\,256 najczęstszych słów & WikiText-103 & 12.1\,s \\
+SentencePiece & BPE (\texttt{model\_type=bpe}), ustawienia domyślne & WikiText-103 & 11.0\,s \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\paragraph{Model i~hiperparametry.} Trzy identyczne modele typu nanoGPT (decoder-only Transformer, pre-LN), różniące się wyłącznie tokenizerem.
+
+\begin{center}\small
+\begin{tabular}{@{}llll@{}}
+\toprule
+Warstwy / głowy / $d_\text{model}$ & 4 / 4 / 256 & Batch & 16 sekwencji $\times$ 256 tokenów \\
+MLP & $4\times d_\text{model}$, GELU & Optymalizator & AdamW, lr $5\cdot 10^{-4}$ (stały) \\
+Kontekst & 256 tokenów & Epoki & 1 (bez dropoutu), seed 0 \\
+Embeddingi pozycyjne & uczone & Kroki (GPT-2 / WS / SP) & 7\,012 / 6\,367 / 6\,591 \\
+Parametry & 28.96\,M & Tokeny treningowe & 28.8\,M / 26.2\,M / 27.1\,M \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Embedding wejściowy i~warstwa wyjściowa (nie współdzielone) to $2\times 50\,257\times 256 = 25.7$\,M parametrów (89\% modelu).
+
+\paragraph{Sprzęt.} AMD Ryzen 7 4800H (8 rdzeni / 16 wątków), 24\,GB RAM, NVIDIA GeForce GTX 1660 Ti (6\,GB), Windows 11, PyTorch 2.6.0 + CUDA 12.4.
+
+\paragraph{Metryki.} Łączny NLL na zbiorze testowym (okna 256 tokenów bez nakładania) normalizowany jednostką niezależną od tokenizera:
+\[
+\mathrm{PPL}_\text{word} = \exp\Big(\tfrac{1}{N_\text{words}}\sum_i -\log p(t_i)\Big), \qquad
+\mathrm{PPL}_\text{char} = \exp\Big(\tfrac{1}{N_\text{chars}}\sum_i -\log p(t_i)\Big).
+\]
+Słowo \emph{zakodowane bezpośrednio} = słowo zamienione na dokładnie jeden token, różny od \texttt{<UNK>}.
+
+\section{Wyniki ilościowe}
+
+\begin{center}\small
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+ & GPT-2 & Whitespace & SentencePiece \\
+\midrule
+Word-level PPL & 231.93 & 98.63$^*$ & \textbf{210.84} \\
+Character-level PPL & 2.901 & 2.454$^*$ & \textbf{2.847} \\
+\midrule
+Czas treningu modelu [min] & 20.1 & 18.0 & 19.0 \\
+Czas inferencji na zbiorze testowym [s] & 8.79 & 7.47 & 7.71 \\
+Inferencja [tokeny/s] & 31\,605 & 33\,409 & 33\,932 \\
+\bottomrule
+\end{tabular}
+
+{\small $^*$ zaniżone i~nieporównywalne -- wszystkie słowa OOV są zastąpione jednym tokenem \texttt{<UNK>}.}
+\end{center}
+
+\begin{center}\small
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+Zbiór testowy (1.28\,MB) & GPT-2 & Whitespace & SentencePiece \\
+\midrule
+Liczba tokenów & 277\,853 & 249\,691 & 261\,647 \\
+Tokeny / słowo & 1.113 & 1.000 & 1.048 \\
+Wystąpienia słów zakodowane bezpośrednio [\%] & 92.35 & 96.51 & 95.05 \\
+Unikalne słowa w~słowniku (z~21\,029) & 13\,018 (61.9\%) & 16\,516 (78.5\%) & 14\,823 (70.5\%) \\
+Przepustowość tokenizera [tokeny/s] & 322\,k & 1\,569\,k & 543\,k \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\paragraph{OOV (whitespace).} 8\,709 z~249\,691 wystąpień słów (\textbf{3.49\%}) oraz 4\,513 z~21\,029 unikalnych słów (\textbf{21.46\%}) jest poza słownikiem. Najczęstsze OOV to nazwy własne i~terminy specjalistyczne: \emph{Bintulu} (169), \emph{temnospondyls} (108), \emph{Olmec} (55), \emph{Tetrarchs} (48), \emph{Rifenburg} (42).
+
+\section{Przykłady jakościowe}
+
+Trzy teksty: (1) prosty tekst ogólny, (2) terminologia biomedyczna, (3) polskie nazwy własne, liczby i~symbole.
+
+\begin{center}\small
+\begin{tabular}{@{}cc cc cc cc@{}}
+\toprule
+ & & \multicolumn{2}{c}{GPT-2} & \multicolumn{2}{c}{Whitespace} & \multicolumn{2}{c}{SentencePiece} \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-6}\cmidrule(l){7-8}
+Tekst & Słowa & tok./słowo & bezpośr. [\%] & tok./słowo & bezpośr. [\%] & tok./słowo & bezpośr. [\%] \\
+\midrule
+1 & 42 & 1.00 & 100.0 & 1.00 & 100.0 & 1.00 & 100.0 \\
+2 & 33 & 1.55 & 72.7 & 1.00 & 78.8 & 1.64 & 69.7 \\
+3 & 45 & 1.89 & 82.2 & 1.00 & 82.2 & 1.71 & 80.0 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\texttt{Ġ} (GPT-2) i~\texttt{\spc} (SentencePiece) oznaczają spację przed tokenem.
+
+\subsection*{Tekst 1}
+
+\textit{The city council approved a new plan to build a public library near the river. The building will open next year and will include a large reading room, a small cafe, and a garden where children can play.}
+
+Wszystkie trzy tokenizery dają identyczny podział (42 tokeny = 42 słowa), np.
+\texttt{\small The | Ġcity | Ġcouncil | Ġapproved | \dots{} / The | city | council | approved | \dots{} / \spc{}The | \spc{}city | \spc{}council | \spc{}approved | \dots}
+
+\paragraph{Komentarz.} Wszystkie słowa w~tym tekście są częste, więc każdy tokenizer ma je w~słowniku jako całe słowa. Na prostym tekście tokenizery się nie różnią. Różnice pojawiają się dopiero przy rzadkich słowach.
+
+\subsection*{Tekst 2}
+
+\textit{Mitochondrial dysfunction has been implicated in neurodegenerative disorders such as amyotrophic lateral sclerosis. Researchers used electroencephalography and immunohistochemistry to characterise the phosphorylation of tau proteins in transgenic mice over several months.}
+
+\textbf{GPT-2} (51 tokenów):
+\tokline{Mit | ochond | rial | Ġdysfunction | Ġhas | Ġbeen | Ġimplicated | Ġin | Ġneuro | deg | ener | ative | Ġdisorders | Ġsuch | Ġas | Ġamy | ot | rophic | Ġlateral | Ġsclerosis | . | ĠResearchers | Ġused | Ġelectro | ence | phal | ography | Ġand | Ġimmun | oh | ist | ochemistry | Ġto | Ġcharacter | ise | Ġthe | Ġphosph | ory | lation | Ġof | Ġt | au | Ġproteins | Ġin | Ġtrans | genic | Ġmice | Ġover | Ġseveral | Ġmonths | .}
+
+\textbf{Whitespace} (33 tokenów):
+\tokline{<UNK> | dysfunction | has | been | implicated | in | <UNK> | disorders | such | as | <UNK> | lateral | sclerosis | . | Researchers | used | <UNK> | and | <UNK> | to | characterise | the | phosphorylation | of | <UNK> | proteins | in | <UNK> | mice | over | several | months | .}
+
+\textbf{SentencePiece} (54 tokenów):
+\tokline{\spc{}Mit | ochond | rial | \spc{}dysfunction | \spc{}has | \spc{}been | \spc{}implicated | \spc{}in | \spc{}neuro | de | g | ener | ative | \spc{}disorders | \spc{}such | \spc{}as | \spc{}am | y | otrop | hic | \spc{}lateral | \spc{}scler | osis | . | \spc{}Researchers | \spc{}used | \spc{}electro | encephal | ography | \spc{}and | \spc{}immun | oh | ist | ochem | istry | \spc{}to | \spc{}character | ise | \spc{}the | \spc{}phosphory | lation | \spc{}of | \spc{}t | au | \spc{}proteins | \spc{}in | \spc{}trans | gen | ic | \spc{}mice | \spc{}over | \spc{}several | \spc{}months | .}
+
+\paragraph{Komentarz.} Whitespace ma najwięcej słów zakodowanych bezpośrednio (78.8\%), ale 7 terminów zamienia na \texttt{<UNK>}, więc ich znaczenie przepada. GPT-2 i~SentencePiece dzielą te same terminy na 2--5 kawałków. Część kawałków to sensowne fragmenty słów (\texttt{neuro}, \texttt{electro}, \texttt{immun}, \texttt{ography}), a~część nic nie znaczy (\texttt{t|au}, \texttt{am|y|otrop|hic}). Oba tokenizery podsłowowe działają tu podobnie (1.55 i~1.64 tokenu na słowo).
+
+\subsection*{Tekst 3}
+
+\textit{On 14 March 2023 Grzegorz Brzęczyszczykiewicz from Łódź posted: \textquotedbl Zażółć gęślą jaźń!\textquotedbl{} The price of the new GPU rose to \$1,299.99, and fans replied with \#unbelievable while others compared it to the RTX4090.}
+
+\textbf{GPT-2} (85 tokenów):
+\tokline{On | Ġ14 | ĠMarch | Ġ20 | 23 | ĠGr | z | eg | or | z | ĠBr | z | Ä | Ļ | cz | ys | z | c | zyk | iewicz | Ġfrom | ĠÅ | ģ | Ã³ | d | Å | º | Ġposted | : | Ġ\textquotedbl{} | Z | a | Å | ¼ | Ã³ | ÅĤ | Äĩ | Ġg | Ä | Ļ | Å | Ľ | l | Ä | ħ | Ġja | Å | º | Å | Ħ | !\textquotedbl{} | ĠThe | Ġprice | Ġof | Ġthe | Ġnew | ĠGPU | Ġrose | Ġto | Ġ\$ | 1 | , | 299 | . | 99 | , | Ġand | Ġfans | Ġreplied | Ġwith | Ġ\# | un | bel | iev | able | Ġwhile | Ġothers | Ġcompared | Ġit | Ġto | Ġthe | ĠRTX | 40 | 90 | .}
+
+\textbf{Whitespace} (45 tokenów):
+\tokline{On | 14 | March | <UNK> | <UNK> | <UNK> | from | <UNK> | posted | : | \textquotedbl{} | <UNK> | <UNK> | <UNK> | ! | \textquotedbl{} | The | price | of | the | new | GPU | rose | to | \$ | 1 | , | 299 | . | 99 | , | and | fans | replied | with | \# | unbelievable | while | others | compared | it | to | the | <UNK> | .}
+
+\textbf{SentencePiece} (77 tokenów):
+\tokline{\spc{}On | \spc{}14 | \spc{}March | \spc{}202 | 3 | \spc{}Gr | ze | gor | z | \spc{}Br | z | ę | cz | ys | z | czy | ki | ewicz | \spc{}from | \spc{} | Ł | ó | d | ź | \spc{}posted | : | \spc{}\textquotedbl{} | Z | a | ż | ó | ł | ć | \spc{}g | ęś | l | ą | \spc{}ja | źń | ! | \textquotedbl{} | \spc{}The | \spc{}price | \spc{}of | \spc{}the | \spc{}new | \spc{}GPU | \spc{}rose | \spc{}to | \spc{}\$ | 1 | , | 2 | 99 | . | 99 | , | \spc{}and | \spc{}fans | \spc{}replied | \spc{}with | \spc{} | \# | un | believ | able | \spc{}while | \spc{}others | \spc{}compared | \spc{}it | \spc{}to | \spc{}the | \spc{}RT | X | 40 | 90 | .}
+
+\paragraph{Komentarz.} Dziwne znaki w~wyniku GPT-2 (np. \texttt{Ä}, \texttt{Å}, \texttt{Ã³}) to nie błąd. GPT-2 działa na bajtach, a~polska litera w~UTF-8 to dwa bajty, np. \texttt{ę} to \texttt{Ä}\,+\,\texttt{Ļ}. Dlatego GPT-2 ma tu najwięcej tokenów (1.89 na słowo), ale niczego nie traci. SentencePiece zapisuje polskie litery jako pojedyncze znaki (\texttt{ę}, \texttt{ł}, \texttt{ź}), a~samotny token \texttt{\spc} to spacja, której nie połączył z~następnym znakiem. Whitespace zamienia na \texttt{<UNK>} imię, nazwisko, Łódź, całe polskie zdanie, \texttt{RTX4090}, a~nawet rok 2023 (WikiText powstał w~2016~r.). Liczby są dzielone niekonsekwentnie: rok 2023 to \texttt{20|23} w~GPT-2 i~\texttt{202|3} w~SentencePiece.
+
+\section{Wnioski}
+
+\begin{enumerate}[leftmargin=*, itemsep=0.4em]
+\item \textbf{Najniższe PPL whitespace (98.63) jest mylące.} Wszystkie słowa spoza słownika to jeden token \texttt{<UNK>}, więc model nie musi zgadywać, które rzadkie słowo się pojawi. Tego wyniku nie można porównać z~pozostałymi.
+
+\item \textbf{SentencePiece daje lepszy model niż GPT-2, bo jego słownik pasuje do danych.} Oba to BPE, ale SentencePiece uczył się na WikiText-103, a~GPT-2 na WebText. Dlatego SentencePiece potrzebuje mniej tokenów na słowo (1.048 vs 1.113) i~ma niższe PPL (210.84 vs 231.93), mimo że model GPT-2 trenował dłużej (7\,012 vs 6\,591 kroków).
+
+\item \textbf{Mniej tokenów na słowo oznacza szybszy trening i~inferencję.} Jeden krok trwa we wszystkich modelach tyle samo (ok. 0.17\,s), więc różnice w~czasie wynikają tylko z~liczby tokenów.
+
+\item \textbf{Whitespace gubi rzadkie słowa, a~GPT-2 nie gubi niczego, ale potrzebuje więcej tokenów.} Poza słownikiem whitespace jest 21.46\% różnych słów, głównie nazwy własne i~terminy, czyli słowa niosące treść. GPT-2 w~najgorszym razie dzieli słowo na bajty, więc nigdy nie potrzebuje \texttt{<UNK>}, ale na polskim tekście ma aż 1.89 tokenu na słowo.
+\end{enumerate}
+
+\end{document}
