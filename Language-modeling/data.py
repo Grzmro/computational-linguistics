@@ -23,16 +23,20 @@ tokenizer.save("data/tokenizer.json")
 end_id = tokenizer.token_to_id("<|endoftext|>")
 
 
-def encode(texts):
-    return torch.cat([torch.tensor(enc.ids + [end_id]) for enc in tokenizer.encode_batch(texts)])
+def encode(texts, chunk=2000):
+    pieces = []
+    for i in range(0, len(texts), chunk):
+        for enc in tokenizer.encode_batch(texts[i : i + chunk]):
+            pieces.append(torch.tensor(enc.ids + [end_id]))
+    return torch.cat(pieces)
 
 
 train_ids = encode(train_texts)
 wiki_ids = encode(wiki_texts)
 
 split = int(0.99 * len(train_ids))
-torch.save(train_ids[:split], "data/train.pt")
-torch.save(train_ids[split:], "data/val.pt")
+torch.save(train_ids[:split].clone(), "data/train.pt")
+torch.save(train_ids[split:].clone(), "data/val.pt")
 torch.save(wiki_ids, "data/wiki.pt")
 
 for name, texts, ids in [("train", train_texts, train_ids), ("wiki", wiki_texts, wiki_ids)]:

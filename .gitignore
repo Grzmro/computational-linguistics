@@ -61,6 +61,10 @@ env/
 *.snm
 *.vrb
 
+# ---------- Language modeling (tylko pliki Python) ----------
+Language-modeling/*
+!Language-modeling/*.py
+
 # ---------- Sekrety ----------
 .env
 .env.*
